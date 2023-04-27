@@ -1,12 +1,13 @@
 {
   "version": 1,
-  "lastopen": "@workspace",
+  "lastopen": "@calendar",
   "expanded": {
     "@workspace": {
       "@calendar": true,
       "lgzgq82ruqvnlbhc7nb": true,
       "lgzgqwluo9wxc50sv4j": true
-    }
+    },
+    "@calendar": {}
   },
   "nodes": [
     {
@@ -88,6 +89,15 @@
       },
       "Attrs": {},
       "Parent": "lgzgqwluo9wxc50sv4j"
+    },
+    {
+      "ID": "@quickadd",
+      "Name": "@quickadd",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {}
     }
   ]
 }
