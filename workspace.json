@@ -3,7 +3,9 @@
   "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
-      "@calendar": true
+      "@calendar": true,
+      "lgzgq82ruqvnlbhc7nb": true,
+      "lgzgqwluo9wxc50sv4j": true
     }
   },
   "nodes": [
@@ -47,7 +49,9 @@
       "ID": "lgzgq82ruqvnlbhc7nb",
       "Name": "Home",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lgzgqwluo9wxc50sv4j"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -62,6 +66,28 @@
       },
       "Attrs": {},
       "Parent": "@calendar"
+    },
+    {
+      "ID": "lgzgqwluo9wxc50sv4j",
+      "Name": "Treestar",
+      "Linked": {
+        "Children": [
+          "lgzgqyayacqmlw8ww0m"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lgzgq82ruqvnlbhc7nb"
+    },
+    {
+      "ID": "lgzgqyayacqmlw8ww0m",
+      "Name": "I feel like I should soften the white a little, it's kind of harsh",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lgzgqwluo9wxc50sv4j"
     }
   ]
 }
