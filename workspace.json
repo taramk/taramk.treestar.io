@@ -2,7 +2,9 @@
   "version": 1,
   "lastopen": "@workspace",
   "expanded": {
-    "@workspace": {}
+    "@workspace": {
+      "@calendar": true
+    }
   },
   "nodes": [
     {
@@ -33,7 +35,9 @@
       "ID": "@calendar",
       "Name": "Calendar",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lgzgqg50pfpdnbx80fj"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -48,6 +52,16 @@
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lgzgqg50pfpdnbx80fj",
+      "Name": "should they be able to add subnodes to the calendar like this?",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@calendar"
     }
   ]
 }
