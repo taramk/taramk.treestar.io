@@ -10,7 +10,8 @@
       "lhgpjk0igshzz075pa5": true,
       "lhgpqbdb74479bcyx44": true,
       "lhgprwnm7e0bxentrrn": true,
-      "lhgptlolcgo7htdlk3p": false
+      "lhgptlolcgo7htdlk3p": false,
+      "lhgq29i8yeojytlis8": true
     }
   },
   "nodes": [
@@ -138,9 +139,7 @@
           "lhgq29i8yeojytlis8"
         ],
         "Components": [],
-        "Fields": [
-          "lhgq3cy8fz3skf7on3s"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lhgpj9lhufzcr161fvh"
@@ -281,37 +280,23 @@
       "ID": "lhgq29i8yeojytlis8",
       "Name": "Bao @ Tropical Hideaway",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgq3j1iu9qatnqjs6"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhgq3cy8fz3skf7on3s",
+      "ID": "lhgq3j1iu9qatnqjs6",
       "Name": "Location",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhgq3cy8rh2ildgrs7"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhgpjk0igshzz075pa5",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lhgq3cy8rh2ildgrs7",
-      "Name": "treehouse.TextField",
-      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgq3cy8fz3skf7on3s",
-      "Rel": "Components"
+      "Parent": "lhgq29i8yeojytlis8"
     }
   ]
 }
