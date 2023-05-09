@@ -487,23 +487,40 @@
       "ID": "lhgr0ixt44a6vyf0tpk",
       "Name": "Ronto Wrap",
       "Linked": {
-        "Children": [
-          "lhgr0s745wazf1f028e"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lhgr134rjlbrawr3o0n"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhgr0s745wazf1f028e",
+      "ID": "lhgr134rjlbrawr3o0n",
       "Name": "Location",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgr134rcrzgr8yre7k"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgr0ixt44a6vyf0tpk",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgr134rcrzgr8yre7k",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgr0ixt44a6vyf0tpk"
+      "Parent": "lhgr134rjlbrawr3o0n",
+      "Rel": "Components"
     }
   ]
 }
