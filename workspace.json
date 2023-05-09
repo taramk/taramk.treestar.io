@@ -135,7 +135,8 @@
         "Children": [
           "lhgpqbdb74479bcyx44",
           "lhgprwnm7e0bxentrrn",
-          "lhgq29i8yeojytlis8"
+          "lhgq29i8yeojytlis8",
+          "lhgq2x5q7u92o0i15vt"
         ],
         "Components": [],
         "Fields": []
@@ -277,7 +278,17 @@
     },
     {
       "ID": "lhgq29i8yeojytlis8",
-      "Name": "Bao @",
+      "Name": "Bao @ Tropical Hideaway",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgpjk0igshzz075pa5"
+    },
+    {
+      "ID": "lhgq2x5q7u92o0i15vt",
+      "Name": "Location",
       "Linked": {
         "Children": [],
         "Components": []
