@@ -419,12 +419,11 @@
       "ID": "lhgqgiczwh9b64ys4aq",
       "Name": "Cream cheese pretzel",
       "Linked": {
-        "Children": [
-          "lhgqp8094771e11slgw"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
-          "lhgqoyqh3lm21zs229w"
+          "lhgqoyqh3lm21zs229w",
+          "lhgqpn9l3uijn29hy5m"
         ]
       },
       "Attrs": {},
@@ -457,14 +456,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhgqp8094771e11slgw",
+      "ID": "lhgqpn9l3uijn29hy5m",
       "Name": "Type",
+      "Value": "Sweet and savory",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgqpn9la0qsqtmftlj"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgqgiczwh9b64ys4aq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgqpn9la0qsqtmftlj",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgqgiczwh9b64ys4aq"
+      "Parent": "lhgqpn9l3uijn29hy5m",
+      "Rel": "Components"
     }
   ]
 }
