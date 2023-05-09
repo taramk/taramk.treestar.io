@@ -488,11 +488,12 @@
       "Name": "Ronto Wrap",
       "Linked": {
         "Children": [
-          "lhgr1tpbwpdxzpnbmxh"
+          "lhgr225npnbcvs2hsdd"
         ],
         "Components": [],
         "Fields": [
-          "lhgr134rjlbrawr3o0n"
+          "lhgr134rjlbrawr3o0n",
+          "lhgr1yu0672y10ej4kg"
         ]
       },
       "Attrs": {},
@@ -525,8 +526,34 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhgr1tpbwpdxzpnbmxh",
+      "ID": "lhgr1yu0672y10ej4kg",
       "Name": "Type",
+      "Value": "Savory",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgr1yu0wcw6hbihq2l"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgr0ixt44a6vyf0tpk",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgr1yu0wcw6hbihq2l",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgr1yu0672y10ej4kg",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhgr225npnbcvs2hsdd",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
