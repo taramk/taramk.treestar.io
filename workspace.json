@@ -8,7 +8,8 @@
       "lgzgqwluo9wxc50sv4j": true,
       "lhgpj9lhufzcr161fvh": true,
       "lhgpjk0igshzz075pa5": true,
-      "lhgpqbdb74479bcyx44": true
+      "lhgpqbdb74479bcyx44": true,
+      "lhgprwnm7e0bxentrrn": true
     }
   },
   "nodes": [
@@ -135,9 +136,7 @@
           "lhgprwnm7e0bxentrrn"
         ],
         "Components": [],
-        "Fields": [
-          "lhgpu9y94l8cctxs08t"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lhgpj9lhufzcr161fvh"
@@ -186,7 +185,9 @@
       "ID": "lhgprwnm7e0bxentrrn",
       "Name": "Guava Churro",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgpulkb8b1m4i380o9"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -219,30 +220,14 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhgpu9y94l8cctxs08t",
-      "Name": "",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhgpu9y9qgqqkjpjcn"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhgpjk0igshzz075pa5",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lhgpu9y9qgqqkjpjcn",
-      "Name": "treehouse.TextField",
-      "Value": {},
+      "ID": "lhgpulkb8b1m4i380o9",
+      "Name": "Location",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpu9y94l8cctxs08t",
-      "Rel": "Components"
+      "Parent": "lhgprwnm7e0bxentrrn"
     }
   ]
 }
