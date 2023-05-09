@@ -148,7 +148,9 @@
           "lhgpn20038u7ntlxwvs"
         ]
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "list"
+      },
       "Parent": "lhgpjk0igshzz075pa5",
       "Rel": "Fields"
     },
