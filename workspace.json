@@ -7,7 +7,8 @@
       "lgzgq82ruqvnlbhc7nb": false,
       "lgzgqwluo9wxc50sv4j": true,
       "lhgpj9lhufzcr161fvh": true,
-      "lhgpjk0igshzz075pa5": true
+      "lhgpjk0igshzz075pa5": true,
+      "lhgpqbdb74479bcyx44": true
     }
   },
   "nodes": [
@@ -129,42 +130,36 @@
       "ID": "lhgpjk0igshzz075pa5",
       "Name": "Food",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgpqbdb74479bcyx44"
+        ],
         "Components": [],
-        "Fields": [
-          "lhgpn200xsqmtc3mj6o"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lhgpj9lhufzcr161fvh"
     },
     {
-      "ID": "lhgpn200xsqmtc3mj6o",
+      "ID": "lhgpqbdb74479bcyx44",
       "Name": "Potato Sambusa @ Troubadour Tavern",
-      "Value": "what?",
       "Linked": {
-        "Children": [],
-        "Components": [
-          "lhgpn20038u7ntlxwvs"
-        ]
+        "Children": [
+          "lhgpqjef85nnuy0or4s"
+        ],
+        "Components": []
       },
-      "Attrs": {
-        "view": "list"
-      },
-      "Parent": "lhgpjk0igshzz075pa5",
-      "Rel": "Fields"
+      "Attrs": {},
+      "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhgpn20038u7ntlxwvs",
-      "Name": "treehouse.TextField",
-      "Value": {},
+      "ID": "lhgpqjef85nnuy0or4s",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpn200xsqmtc3mj6o",
-      "Rel": "Components"
+      "Parent": "lhgpqbdb74479bcyx44"
     }
   ]
 }
