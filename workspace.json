@@ -348,12 +348,11 @@
       "ID": "lhgq4ex8uhuu9pf036h",
       "Name": "Birria Sandwich @ Jolly Holiday",
       "Linked": {
-        "Children": [
-          "lhgq5uchgzkvjnh2c69"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
-          "lhgq5qqbosjxhpgvab"
+          "lhgq5qqbosjxhpgvab",
+          "lhgq6139lz82q9h3zp"
         ]
       },
       "Attrs": {},
@@ -386,14 +385,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhgq5uchgzkvjnh2c69",
+      "ID": "lhgq6139lz82q9h3zp",
       "Name": "",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgq6139p06wrgt083"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgq4ex8uhuu9pf036h",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgq6139p06wrgt083",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgq4ex8uhuu9pf036h"
+      "Parent": "lhgq6139lz82q9h3zp",
+      "Rel": "Components"
     }
   ]
 }
