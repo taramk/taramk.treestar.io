@@ -487,7 +487,9 @@
       "ID": "lhgr0ixt44a6vyf0tpk",
       "Name": "Ronto Wrap",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgr1tpbwpdxzpnbmxh"
+        ],
         "Components": [],
         "Fields": [
           "lhgr134rjlbrawr3o0n"
@@ -521,6 +523,16 @@
       "Attrs": {},
       "Parent": "lhgr134rjlbrawr3o0n",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhgr1tpbwpdxzpnbmxh",
+      "Name": "Type",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgr0ixt44a6vyf0tpk"
     }
   ]
 }
