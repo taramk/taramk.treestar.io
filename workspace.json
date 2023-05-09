@@ -143,23 +143,40 @@
       "ID": "lhgpqbdb74479bcyx44",
       "Name": "Potato Sambusa @ Troubadour Tavern",
       "Linked": {
-        "Children": [
-          "lhgpqjef85nnuy0or4s"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lhgpr0z9okq0nwa8lj"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhgpqjef85nnuy0or4s",
+      "ID": "lhgpr0z9okq0nwa8lj",
       "Name": "Location",
+      "Value": "Fantasyland",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgpr0z9jsng4g2zrgo"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgpqbdb74479bcyx44",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgpr0z9jsng4g2zrgo",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpqbdb74479bcyx44"
+      "Parent": "lhgpr0z9okq0nwa8lj",
+      "Rel": "Components"
     }
   ]
 }
