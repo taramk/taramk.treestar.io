@@ -283,7 +283,8 @@
         "Children": [],
         "Components": [],
         "Fields": [
-          "lhgq3qhxwznmc94b1e"
+          "lhgq3qhxwznmc94b1e",
+          "lhgq45gc1xqarayg1ji"
         ]
       },
       "Attrs": {},
@@ -313,6 +314,32 @@
       },
       "Attrs": {},
       "Parent": "lhgq3qhxwznmc94b1e",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhgq45gc1xqarayg1ji",
+      "Name": "Type",
+      "Value": "Savory",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgq45gck6e3fh5utg"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgq29i8yeojytlis8",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgq45gck6e3fh5utg",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgq45gc1xqarayg1ji",
       "Rel": "Components"
     }
   ]
