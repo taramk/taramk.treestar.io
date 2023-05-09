@@ -141,11 +141,12 @@
           "lhgprwnm7e0bxentrrn",
           "lhgq29i8yeojytlis8",
           "lhgq4ex8uhuu9pf036h",
-          "lhgqgiczwh9b64ys4aq",
-          "lhgqn2kq1lr52pjwt2r"
+          "lhgqgiczwh9b64ys4aq"
         ],
         "Components": [],
-        "Fields": []
+        "Fields": [
+          "lhgqni295pi3cdvxqpj"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpj9lhufzcr161fvh"
@@ -425,14 +426,30 @@
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhgqn2kq1lr52pjwt2r",
+      "ID": "lhgqni295pi3cdvxqpj",
       "Name": "Location",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgqni296z8vylj5no6"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgpjk0igshzz075pa5",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgqni296z8vylj5no6",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpjk0igshzz075pa5"
+      "Parent": "lhgqni295pi3cdvxqpj",
+      "Rel": "Components"
     }
   ]
 }
