@@ -14,7 +14,8 @@
       "lhgq29i8yeojytlis8": true,
       "lhgq4ex8uhuu9pf036h": true,
       "lhgq6139lz82q9h3zp": false,
-      "lhgpyo9et18qrkaj90b": false
+      "lhgpyo9et18qrkaj90b": false,
+      "lhgqgiczwh9b64ys4aq": true
     }
   },
   "nodes": [
@@ -141,8 +142,7 @@
           "lhgprwnm7e0bxentrrn",
           "lhgq29i8yeojytlis8",
           "lhgq4ex8uhuu9pf036h",
-          "lhgqgiczwh9b64ys4aq",
-          "lhgqnrq8uu4rbrth1x"
+          "lhgqgiczwh9b64ys4aq"
         ],
         "Components": [],
         "Fields": []
@@ -419,20 +419,39 @@
       "Name": "Cream cheese pretzel",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lhgqoyqh3lm21zs229w"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhgqnrq8uu4rbrth1x",
+      "ID": "lhgqoyqh3lm21zs229w",
       "Name": "",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgqoyqhy8e48a30aw9"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgqgiczwh9b64ys4aq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgqoyqhy8e48a30aw9",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpjk0igshzz075pa5"
+      "Parent": "lhgqoyqh3lm21zs229w",
+      "Rel": "Components"
     }
   ]
 }
