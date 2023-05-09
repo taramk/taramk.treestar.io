@@ -387,8 +387,8 @@
     },
     {
       "ID": "lhgq6139lz82q9h3zp",
-      "Name": "Savory",
-      "Value": "Savry",
+      "Name": "Type",
+      "Value": "Savory",
       "Linked": {
         "Children": [],
         "Components": [
