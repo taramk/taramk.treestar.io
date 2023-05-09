@@ -418,7 +418,9 @@
       "ID": "lhgqgiczwh9b64ys4aq",
       "Name": "Cream cheese pretzel",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgqp8094771e11slgw"
+        ],
         "Components": [],
         "Fields": [
           "lhgqoyqh3lm21zs229w"
@@ -429,8 +431,8 @@
     },
     {
       "ID": "lhgqoyqh3lm21zs229w",
-      "Name": "",
-      "Value": "",
+      "Name": "Location",
+      "Value": "Main Street",
       "Linked": {
         "Children": [],
         "Components": [
@@ -452,6 +454,16 @@
       "Attrs": {},
       "Parent": "lhgqoyqh3lm21zs229w",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhgqp8094771e11slgw",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgqgiczwh9b64ys4aq"
     }
   ]
 }
