@@ -349,9 +349,7 @@
       "ID": "lhgq4ex8uhuu9pf036h",
       "Name": "Birria Sandwich @ Jolly Holiday",
       "Linked": {
-        "Children": [
-          "lhgq9lz9un1rl7adsc"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
           "lhgq5qqbosjxhpgvab",
@@ -389,8 +387,8 @@
     },
     {
       "ID": "lhgq6139lz82q9h3zp",
-      "Name": "Savo",
-      "Value": "Savory",
+      "Name": "Savory",
+      "Value": "Savry",
       "Linked": {
         "Children": [],
         "Components": [
@@ -412,16 +410,6 @@
       "Attrs": {},
       "Parent": "lhgq6139lz82q9h3zp",
       "Rel": "Components"
-    },
-    {
-      "ID": "lhgq9lz9un1rl7adsc",
-      "Name": "ry",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhgq4ex8uhuu9pf036h"
     }
   ]
 }
