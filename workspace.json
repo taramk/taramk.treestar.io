@@ -7,7 +7,8 @@
       "lgzgq82ruqvnlbhc7nb": false,
       "lgzgqwluo9wxc50sv4j": true
     },
-    "@calendar": {}
+    "@calendar": {},
+    "@quickadd": {}
   },
   "nodes": [
     {
@@ -94,10 +95,22 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgoabcqhq20ljgznmo"
+        ],
         "Components": []
       },
       "Attrs": {}
+    },
+    {
+      "ID": "lhgoabcqhq20ljgznmo",
+      "Name": "testing",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
     }
   ]
 }
