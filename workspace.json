@@ -280,23 +280,40 @@
       "ID": "lhgq29i8yeojytlis8",
       "Name": "Bao @ Tropical Hideaway",
       "Linked": {
-        "Children": [
-          "lhgq3j1iu9qatnqjs6"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lhgq3qhxwznmc94b1e"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhgq3j1iu9qatnqjs6",
+      "ID": "lhgq3qhxwznmc94b1e",
       "Name": "Location",
+      "Value": "Adventureland",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhgq3qhxgkv1dznt0pm"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgq29i8yeojytlis8",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhgq3qhxgkv1dznt0pm",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgq29i8yeojytlis8"
+      "Parent": "lhgq3qhxwznmc94b1e",
+      "Rel": "Components"
     }
   ]
 }
