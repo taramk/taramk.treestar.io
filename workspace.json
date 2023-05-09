@@ -185,7 +185,9 @@
       "ID": "lhgprwnm7e0bxentrrn",
       "Name": "Guava Churro @ Matterhorn Churro Cart",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgpye4hn6g5q1r9hoi"
+        ],
         "Components": [],
         "Fields": [
           "lhgpur3mszzs0sm9rh"
@@ -245,6 +247,16 @@
       "Attrs": {},
       "Parent": "lhgpur3mszzs0sm9rh",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhgpye4hn6g5q1r9hoi",
+      "Name": "Type",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgprwnm7e0bxentrrn"
     }
   ]
 }
