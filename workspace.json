@@ -169,6 +169,7 @@
       "Name": "Potato Sambusa @ Troubadour Tavern",
       "Linked": {
         "Children": [
+          "lhi2c96d2p78eaasxj6",
           "lhi1z8yfobczobmzysn"
         ],
         "Components": [],
@@ -809,6 +810,16 @@
       },
       "Attrs": {},
       "Parent": "lhi1xphvri4h9nk7gwi"
+    },
+    {
+      "ID": "lhi2c96d2p78eaasxj6",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgpqbdb74479bcyx44"
     }
   ]
 }
