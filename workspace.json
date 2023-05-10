@@ -776,7 +776,7 @@
     },
     {
       "ID": "lhi28r5sw2pk9wqlw5",
-      "Name": "",
+      "Name": "test",
       "Linked": {
         "Children": [],
         "Components": [
@@ -797,6 +797,18 @@
       "Attrs": {},
       "Parent": "lhi28r5sw2pk9wqlw5",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhi2abvi7k7w7odw3bs",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgoabcqhq20ljgznmo"
+      },
+      "Parent": "@tmp"
     }
   ]
 }
