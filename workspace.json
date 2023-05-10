@@ -19,7 +19,8 @@
       "lhgr0ixt44a6vyf0tpk": true,
       "lhi1xphvri4h9nk7gwi": true,
       "lhi1yo1szjnzur3iwzm": false,
-      "lhi1yo1rt71j587j3bi": false
+      "lhi1yo1rt71j587j3bi": false,
+      "lhi1yo1qle8c9ggh2z9": true
     }
   },
   "nodes": [
@@ -161,7 +162,9 @@
       "ID": "lhgpqbdb74479bcyx44",
       "Name": "Potato Sambusa @ Troubadour Tavern",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhi1z8yfobczobmzysn"
+        ],
         "Components": [],
         "Fields": [
           "lhgpr0z9okq0nwa8lj",
@@ -646,6 +649,16 @@
         "refTo": "lhgqgiczwh9b64ys4aq"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lhi1z8yfobczobmzysn",
+      "Name": "Troubadour Tavern",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgpqbdb74479bcyx44"
     }
   ]
 }
