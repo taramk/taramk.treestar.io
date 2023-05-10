@@ -21,7 +21,8 @@
       "lhi1yo1szjnzur3iwzm": false,
       "lhi1yo1rt71j587j3bi": false,
       "lhi1yo1qle8c9ggh2z9": true,
-      "lhgqpn9l3uijn29hy5m": false
+      "lhgqpn9l3uijn29hy5m": false,
+      "lhi20dbz3jqr35sfd5d": true
     }
   },
   "nodes": [
@@ -667,10 +668,24 @@
       "Name": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lhi20u07pgln45utwt"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lhi20u07pgln45utwt",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhi20dbz3jqr35sfd5d",
+      "Rel": "Components"
     }
   ]
 }
