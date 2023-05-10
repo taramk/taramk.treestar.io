@@ -25,7 +25,8 @@
       "lhi20dbz3jqr35sfd5d": true,
       "lhi27xa00zk3km55ftm": true,
       "lhi28r5sw2pk9wqlw5": true,
-      "lhi2cs5csd4cdvwj2og": false
+      "lhi2cs5csd4cdvwj2og": false,
+      "lhi2cyq1owzcpw10pe": true
     }
   },
   "nodes": [
@@ -50,6 +51,8 @@
           "lhi28r5sw2pk9wqlw5",
           "lhi20dbz3jqr35sfd5d",
           "lhi1xphvri4h9nk7gwi",
+          "lhi2cyq1owzcpw10pe",
+          "lhi2d7qd773ffy3uyu8",
           "lhgpj9lhufzcr161fvh"
         ],
         "Components": []
@@ -821,6 +824,88 @@
       },
       "Attrs": {},
       "Parent": "lhi1xphvri4h9nk7gwi"
+    },
+    {
+      "ID": "lhi2cyq1owzcpw10pe",
+      "Name": "type:savory",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhi2d2du06b2xlvgzdah"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhi2d2du06b2xlvgzdah",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhi2cyq1owzcpw10pe",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhi2d7qd773ffy3uyu8",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhi2d8ivts6vcxaluz",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgq29i8yeojytlis8"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lhi2d8iwbc93z3o4ewm",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgq4ex8uhuu9pf036h"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lhi2d8iwk7n5u2yb8c",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgr0ixt44a6vyf0tpk"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lhi2d8iw846x1asv5fr",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgpqbdb74479bcyx44"
+      },
+      "Parent": "@tmp"
     }
   ]
 }
