@@ -143,10 +143,12 @@
       "Name": "Disneyland 2023",
       "Linked": {
         "Children": [
-          "lhi4jr2or5n5hjf6hw",
           "lhgpjk0igshzz075pa5"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lhi4jxcm0sdjfcwba4un"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
@@ -776,14 +778,30 @@
       "Parent": "lhi20dbz3jqr35sfd5d"
     },
     {
-      "ID": "lhi4jr2or5n5hjf6hw",
+      "ID": "lhi4jxcm0sdjfcwba4un",
       "Name": "",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhi4jxcmjdv4gm7dt"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgpj9lhufzcr161fvh",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhi4jxcmjdv4gm7dt",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpj9lhufzcr161fvh"
+      "Parent": "lhi4jxcm0sdjfcwba4un",
+      "Rel": "Components"
     }
   ]
 }
