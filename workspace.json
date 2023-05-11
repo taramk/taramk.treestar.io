@@ -42,7 +42,6 @@
         "Children": [
           "@calendar",
           "lgzgq82ruqvnlbhc7nb",
-          "lhi28r5sw2pk9wqlw5",
           "lhi20dbz3jqr35sfd5d",
           "lhi2cyq1owzcpw10pe",
           "lhgpj9lhufzcr161fvh"
@@ -112,22 +111,10 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [
-          "lhgoabcqhq20ljgznmo"
-        ],
-        "Components": []
-      },
-      "Attrs": {}
-    },
-    {
-      "ID": "lhgoabcqhq20ljgznmo",
-      "Name": "testing",
-      "Linked": {
         "Children": [],
         "Components": []
       },
-      "Attrs": {},
-      "Parent": "@quickadd"
+      "Attrs": {}
     },
     {
       "ID": "lhgpj9lhufzcr161fvh",
@@ -605,30 +592,6 @@
       "Parent": "lhi20dbz3jqr35sfd5d"
     },
     {
-      "ID": "lhi28r5sw2pk9wqlw5",
-      "Name": "test",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhi28tcya3g6c38cjx"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lhi28tcya3g6c38cjx",
-      "Name": "treehouse.SearchNode",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhi28r5sw2pk9wqlw5",
-      "Rel": "Components"
-    },
-    {
       "ID": "lhi2cyq1owzcpw10pe",
       "Name": "type:savory",
       "Linked": {
@@ -661,18 +624,6 @@
       },
       "Attrs": {},
       "Parent": "lhi20dbz3jqr35sfd5d"
-    },
-    {
-      "ID": "lhjopx70oqws9o0hfgd",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lhgoabcqhq20ljgznmo"
-      },
-      "Parent": "@tmp"
     },
     {
       "ID": "lhjopx71ljh8ukp4vpm",
