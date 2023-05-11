@@ -137,9 +137,7 @@
           "lhgpjk0igshzz075pa5"
         ],
         "Components": [],
-        "Fields": [
-          "lhi4jxcm0sdjfcwba4un"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "@workspace"
@@ -663,32 +661,6 @@
       },
       "Attrs": {},
       "Parent": "lhi20dbz3jqr35sfd5d"
-    },
-    {
-      "ID": "lhi4jxcm0sdjfcwba4un",
-      "Name": "Field key",
-      "Value": "value",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhi4jxcmjdv4gm7dt"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhgpj9lhufzcr161fvh",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lhi4jxcmjdv4gm7dt",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhi4jxcm0sdjfcwba4un",
-      "Rel": "Components"
     },
     {
       "ID": "lhjopx70oqws9o0hfgd",
