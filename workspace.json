@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@calendar",
+  "lastopen": "lhku81qcfsmn60bx2j",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -28,7 +28,8 @@
     "@quickadd": {
       "@quickadd": true
     },
-    "@calendar": {}
+    "@calendar": {},
+    "lhku81qcfsmn60bx2j": {}
   },
   "nodes": [
     {
@@ -859,7 +860,8 @@
           "lhktwhbl8ks9kcep0lg",
           "lhktwmxjlm7wtfct5w8",
           "lhktwzxe6k6s048bee2",
-          "lhku0e95f0df3ojgiqe"
+          "lhku0e95f0df3ojgiqe",
+          "lhku81qcfsmn60bx2j"
         ],
         "Components": []
       },
@@ -908,6 +910,16 @@
     },
     {
       "ID": "lhku0e95f0df3ojgiqe",
+      "Name": "Fri, 12 May ",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhktwhblp6g67b0lrm"
+    },
+    {
+      "ID": "lhku81qcfsmn60bx2j",
       "Name": "Fri, 12 May ",
       "Linked": {
         "Children": [],
