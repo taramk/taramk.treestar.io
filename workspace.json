@@ -26,7 +26,7 @@
       "lhgpjk0igshzz075pa5": true
     },
     "@quickadd": {
-      "@quickadd": false
+      "@quickadd": true
     },
     "@calendar": {}
   },
@@ -109,7 +109,9 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhku0cpnwr0uspz06c"
+        ],
         "Components": []
       },
       "Attrs": {}
@@ -856,7 +858,8 @@
         "Children": [
           "lhktwhbl8ks9kcep0lg",
           "lhktwmxjlm7wtfct5w8",
-          "lhktwzxe6k6s048bee2"
+          "lhktwzxe6k6s048bee2",
+          "lhku0e95f0df3ojgiqe"
         ],
         "Components": []
       },
@@ -885,6 +888,26 @@
     },
     {
       "ID": "lhktwzxe6k6s048bee2",
+      "Name": "Fri, 12 May ",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhktwhblp6g67b0lrm"
+    },
+    {
+      "ID": "lhku0cpnwr0uspz06c",
+      "Name": "test",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
+    },
+    {
+      "ID": "lhku0e95f0df3ojgiqe",
       "Name": "Fri, 12 May ",
       "Linked": {
         "Children": [],
