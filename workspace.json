@@ -911,9 +911,11 @@
     },
     {
       "ID": "lhkvt1d9kw7vdibrv8",
-      "Name": "",
+      "Name": "hello",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhkvtg54yb259131chb"
+        ],
         "Components": [
           "lhkvta65suiv4zwkvw"
         ]
@@ -932,6 +934,28 @@
       "Attrs": {},
       "Parent": "lhkvt1d9kw7vdibrv8",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhkvtecrv5ojd7bshcg",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhkvstovp7hc7dn9qri"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lhkvtg54yb259131chb",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhkvt1d9kw7vdibrv8"
     }
   ]
 }
