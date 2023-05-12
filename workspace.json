@@ -35,7 +35,7 @@
     },
     "lgzgq82ruqvnlbhc7nb": {
       "lgzgqwluo9wxc50sv4j": true,
-      "lhkvstovp7hc7dn9qri": true,
+      "lhkvstovp7hc7dn9qri": false,
       "lhkvt1d9kw7vdibrv8": true
     }
   },
@@ -823,41 +823,13 @@
     },
     {
       "ID": "lhkvstovp7hc7dn9qri",
-      "Name": "hello",
-      "Linked": {
-        "Children": [
-          "lhkvt1d9kw7vdibrv8"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lgzgqwluo9wxc50sv4j"
-    },
-    {
-      "ID": "lhkvt1d9kw7vdibrv8",
-      "Name": "hello",
-      "Linked": {
-        "Children": [
-          "lhkvtg54yb259131chb"
-        ],
-        "Components": [
-          "lhkvta65suiv4zwkvw"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhkvstovp7hc7dn9qri"
-    },
-    {
-      "ID": "lhkvta65suiv4zwkvw",
-      "Name": "treehouse.SearchNode",
-      "Value": {},
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhkvt1d9kw7vdibrv8",
-      "Rel": "Components"
+      "Parent": "lgzgqwluo9wxc50sv4j"
     },
     {
       "ID": "lhkvtg54yb259131chb",
@@ -938,18 +910,6 @@
       },
       "Attrs": {
         "refTo": "lhgr0ixt44a6vyf0tpk"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lhkvu494gl2plpgdw0d",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lhkvstovp7hc7dn9qri"
       },
       "Parent": "@tmp"
     }
