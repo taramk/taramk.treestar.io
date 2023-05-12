@@ -30,7 +30,11 @@
     },
     "@calendar": {
       "lhktwhbk85hltv4vcm8": true,
-      "lhktwhblp6g67b0lrm": true
+      "lhktwhblp6g67b0lrm": true,
+      "lhku0e95f0df3ojgiqe": false,
+      "lhktwzxe6k6s048bee2": false,
+      "lhktwmxjlm7wtfct5w8": false,
+      "lhktwhbl8ks9kcep0lg": false
     },
     "lhku81qcfsmn60bx2j": {}
   },
@@ -860,11 +864,7 @@
       "Name": "Week 19",
       "Linked": {
         "Children": [
-          "lhktwhbl8ks9kcep0lg",
-          "lhktwmxjlm7wtfct5w8",
-          "lhktwzxe6k6s048bee2",
-          "lhku0e95f0df3ojgiqe",
-          "lhku81qcfsmn60bx2j"
+          "lhktwhbl8ks9kcep0lg"
         ],
         "Components": []
       },
@@ -882,26 +882,6 @@
       "Parent": "lhktwhblp6g67b0lrm"
     },
     {
-      "ID": "lhktwmxjlm7wtfct5w8",
-      "Name": "Fri, 12 May ",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhktwhblp6g67b0lrm"
-    },
-    {
-      "ID": "lhktwzxe6k6s048bee2",
-      "Name": "Fri, 12 May ",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhktwhblp6g67b0lrm"
-    },
-    {
       "ID": "lhku0cpnwr0uspz06c",
       "Name": "test",
       "Linked": {
@@ -910,26 +890,6 @@
       },
       "Attrs": {},
       "Parent": "@quickadd"
-    },
-    {
-      "ID": "lhku0e95f0df3ojgiqe",
-      "Name": "Fri, 12 May ",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhktwhblp6g67b0lrm"
-    },
-    {
-      "ID": "lhku81qcfsmn60bx2j",
-      "Name": "Fri, 12 May ",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhktwhblp6g67b0lrm"
     }
   ]
 }
