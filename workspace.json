@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lhku81qcfsmn60bx2j",
+  "lastopen": "@calendar",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -28,7 +28,10 @@
     "@quickadd": {
       "@quickadd": true
     },
-    "@calendar": {},
+    "@calendar": {
+      "lhktwhbk85hltv4vcm8": true,
+      "lhktwhblp6g67b0lrm": true
+    },
     "lhku81qcfsmn60bx2j": {}
   },
   "nodes": [
