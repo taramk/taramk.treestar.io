@@ -26,7 +26,7 @@
       "lhgpjk0igshzz075pa5": true
     },
     "@quickadd": {
-      "@quickadd": false
+      "@quickadd": true
     }
   },
   "nodes": [
@@ -118,7 +118,9 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhktw63qplvxe1o0n5n"
+        ],
         "Components": []
       },
       "Attrs": {}
@@ -845,6 +847,16 @@
         "refTo": "lhgr0ixt44a6vyf0tpk"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lhktw63qplvxe1o0n5n",
+      "Name": "test",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
     }
   ]
 }
