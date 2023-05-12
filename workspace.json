@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@calendar",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -30,7 +30,7 @@
     },
     "@calendar": {
       "lhktwhbk85hltv4vcm8": true,
-      "lhktwhblp6g67b0lrm": true,
+      "lhktwhblp6g67b0lrm": false,
       "lhktwhbl8ks9kcep0lg": false
     },
     "lgzgq82ruqvnlbhc7nb": {
@@ -792,23 +792,11 @@
       "ID": "lhktwhblp6g67b0lrm",
       "Name": "Week 19",
       "Linked": {
-        "Children": [
-          "lhktwhbl8ks9kcep0lg"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhktwhbk85hltv4vcm8"
-    },
-    {
-      "ID": "lhktwhbl8ks9kcep0lg",
-      "Name": "Fri, 12 May ",
-      "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhktwhblp6g67b0lrm"
+      "Parent": "lhktwhbk85hltv4vcm8"
     },
     {
       "ID": "lhku0cpnwr0uspz06c",
