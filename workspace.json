@@ -38,7 +38,8 @@
     },
     "lhku81qcfsmn60bx2j": {},
     "lgzgq82ruqvnlbhc7nb": {
-      "lgzgqwluo9wxc50sv4j": true
+      "lgzgqwluo9wxc50sv4j": true,
+      "lhkvstovp7hc7dn9qri": true
     }
   },
   "nodes": [
@@ -897,13 +898,25 @@
     },
     {
       "ID": "lhkvstovp7hc7dn9qri",
+      "Name": "hello",
+      "Linked": {
+        "Children": [
+          "lhkvt1d9kw7vdibrv8"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lgzgqwluo9wxc50sv4j"
+    },
+    {
+      "ID": "lhkvt1d9kw7vdibrv8",
       "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lgzgqwluo9wxc50sv4j"
+      "Parent": "lhkvstovp7hc7dn9qri"
     }
   ]
 }
