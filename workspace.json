@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lhgpj9lhufzcr161fvh",
+  "lastopen": "@calendar",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -27,7 +27,8 @@
     },
     "@quickadd": {
       "@quickadd": true
-    }
+    },
+    "@calendar": {}
   },
   "nodes": [
     {
@@ -63,7 +64,6 @@
       "Name": "Calendar",
       "Linked": {
         "Children": [
-          "lgzgqg50pfpdnbx80fj",
           "lhktwhbk85hltv4vcm8"
         ],
         "Components": []
@@ -82,16 +82,6 @@
       },
       "Attrs": {},
       "Parent": "@workspace"
-    },
-    {
-      "ID": "lgzgqg50pfpdnbx80fj",
-      "Name": "should they be able to add subnodes to the calendar like this?",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@calendar"
     },
     {
       "ID": "lgzgqwluo9wxc50sv4j",
