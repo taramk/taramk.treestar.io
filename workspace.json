@@ -26,7 +26,7 @@
       "lhgpjk0igshzz075pa5": true
     },
     "@quickadd": {
-      "@quickadd": false
+      "@quickadd": true
     }
   },
   "nodes": [
@@ -63,7 +63,8 @@
       "Name": "Calendar",
       "Linked": {
         "Children": [
-          "lgzgqg50pfpdnbx80fj"
+          "lgzgqg50pfpdnbx80fj",
+          "lhktwhbk85hltv4vcm8"
         ],
         "Components": []
       },
@@ -118,7 +119,9 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhktwen5sq8gxl6wz4l"
+        ],
         "Components": []
       },
       "Attrs": {}
@@ -845,6 +848,50 @@
         "refTo": "lhgr0ixt44a6vyf0tpk"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lhktwen5sq8gxl6wz4l",
+      "Name": "test",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
+    },
+    {
+      "ID": "lhktwhbk85hltv4vcm8",
+      "Name": "2023",
+      "Linked": {
+        "Children": [
+          "lhktwhblp6g67b0lrm"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@calendar"
+    },
+    {
+      "ID": "lhktwhblp6g67b0lrm",
+      "Name": "Week 19",
+      "Linked": {
+        "Children": [
+          "lhktwhbl8ks9kcep0lg"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhktwhbk85hltv4vcm8"
+    },
+    {
+      "ID": "lhktwhbl8ks9kcep0lg",
+      "Name": "Fri, 12 May ",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhktwhblp6g67b0lrm"
     }
   ]
 }
