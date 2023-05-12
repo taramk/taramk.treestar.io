@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lhl0dpbzfk49qdddraj",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -120,9 +120,7 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [
-          "lhku0cpnwr0uspz06c"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {}
@@ -804,13 +802,13 @@
     },
     {
       "ID": "lhku0cpnwr0uspz06c",
-      "Name": "test",
+      "Name": "pick up birthday cake for naomi",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@quickadd"
+      "Parent": "lhl0dpbzfk49qdddraj"
     },
     {
       "ID": "lhkvstovp7hc7dn9qri",
@@ -934,7 +932,9 @@
       "ID": "lhl0dpbzfk49qdddraj",
       "Name": "Fri, 12 May ",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhku0cpnwr0uspz06c"
+        ],
         "Components": []
       },
       "Attrs": {},
