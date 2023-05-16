@@ -29,7 +29,8 @@
       "lhqns9y5gnv2efkgiom": true,
       "lhqns12aakni8zkigdv": false,
       "lhqq7tqee83hugvvfvm": false,
-      "lhqq7tqen0eszmpgwe": false
+      "lhqq7tqen0eszmpgwe": false,
+      "lhqqaqt4pf35clxtn1": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -1535,10 +1536,24 @@
       "Name": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lhqqauq11rrg1mjgzcg"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lhqqauq11rrg1mjgzcg",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqqaqt4pf35clxtn1",
+      "Rel": "Components"
     }
   ]
 }
