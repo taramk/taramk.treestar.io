@@ -85,7 +85,6 @@
       "Linked": {
         "Children": [
           "@calendar",
-          "lhqqb08kcbfqv3zysyq",
           "lhqnqqwlu9ksd0e55zi",
           "lhqns9y5gnv2efkgiom",
           "lgzgq82ruqvnlbhc7nb",
@@ -1530,16 +1529,6 @@
         "refTo": "lhksl17qb54gcsdjy2q"
       },
       "Parent": "@tmp"
-    },
-    {
-      "ID": "lhqqb08kcbfqv3zysyq",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
     }
   ]
 }
