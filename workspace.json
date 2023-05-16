@@ -1514,7 +1514,9 @@
       "ID": "lhqtvsvwz83przw2gz9",
       "Name": "Cosmic Disturbance Churro",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhqtx6onwuixore0517"
+        ],
         "Components": [],
         "Fields": [
           "lhqtwitr53et4wa85z9",
@@ -1554,7 +1556,7 @@
     {
       "ID": "lhqtwrnhgczvw1hypy",
       "Name": "Type",
-      "Value": "Sweeet",
+      "Value": "Sweet",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1579,8 +1581,8 @@
     },
     {
       "ID": "lhqtwwx35ppvy382cn2",
-      "Name": "",
-      "Value": "",
+      "Name": "Venue",
+      "Value": "Terran Treats",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1602,6 +1604,16 @@
       "Attrs": {},
       "Parent": "lhqtwwx35ppvy382cn2",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhqtx6onwuixore0517",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqtvsvwz83przw2gz9"
     }
   ]
 }
