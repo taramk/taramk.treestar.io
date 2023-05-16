@@ -450,13 +450,14 @@
     },
     {
       "ID": "lhgqgiczwh9b64ys4aq",
-      "Name": "Cream cheese pretzel",
+      "Name": "Cream Cheese Pretzel",
       "Linked": {
         "Children": [],
         "Components": [],
         "Fields": [
           "lhgqoyqh3lm21zs229w",
-          "lhgqpn9l3uijn29hy5m"
+          "lhgqpn9l3uijn29hy5m",
+          "lhqn2qauptl9261rmk9"
         ]
       },
       "Attrs": {},
@@ -959,6 +960,32 @@
       },
       "Attrs": {},
       "Parent": "lhqn208eaq51u366kpc",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhqn2qauptl9261rmk9",
+      "Name": "",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqn2qau8hf5sgx7ou"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgqgiczwh9b64ys4aq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqn2qau8hf5sgx7ou",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqn2qauptl9261rmk9",
       "Rel": "Components"
     }
   ]
