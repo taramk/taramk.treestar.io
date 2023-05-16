@@ -90,6 +90,8 @@
           "lgzgq82ruqvnlbhc7nb",
           "lhksl17qb54gcsdjy2q",
           "lhkyl11kkux6pqd4bn",
+          "lhqqhhchftpe9993vck",
+          "lhqqhakj1mdjizo8s5q",
           "lhi20dbz3jqr35sfd5d",
           "lhi2cyq1owzcpw10pe",
           "lhgpj9lhufzcr161fvh"
@@ -740,7 +742,7 @@
     },
     {
       "ID": "lhkyl11kkux6pqd4bn",
-      "Name": "potato",
+      "Name": "Potato",
       "Linked": {
         "Children": [],
         "Components": [
@@ -795,18 +797,6 @@
       },
       "Attrs": {},
       "Parent": "lhl0dpbzfk49qdddraj"
-    },
-    {
-      "ID": "lhqkduzl2k7cgq4xy0b",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lhgpqbdb74479bcyx44"
-      },
-      "Parent": "@tmp"
     },
     {
       "ID": "lhqlvxtyfma0llpehml",
@@ -1529,6 +1519,38 @@
       },
       "Attrs": {
         "refTo": "lhksl17qb54gcsdjy2q"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lhqqhakj1mdjizo8s5q",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhqqhhchftpe9993vck",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhqqhi4lp0kbevqjch",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgpqbdb74479bcyx44"
       },
       "Parent": "@tmp"
     }
