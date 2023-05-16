@@ -1761,7 +1761,10 @@
         "Children": [],
         "Components": [],
         "Fields": [
-          "lhqu1nlyine0ug89bob"
+          "lhqu1nlyine0ug89bob",
+          "lhqu23z8nyt8oljylm",
+          "lhqu29t0b3afbjy7z8",
+          "lhqu2e2p1k16ksnrlgy"
         ]
       },
       "Attrs": {},
@@ -1791,6 +1794,84 @@
       },
       "Attrs": {},
       "Parent": "lhqu1nlyine0ug89bob",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhqu23z8nyt8oljylm",
+      "Name": "Type",
+      "Value": "Sweet",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqu23z8uy9hlrvuv4s"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqu19qg98iv8ueuaqc",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqu23z8uy9hlrvuv4s",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqu23z8nyt8oljylm",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhqu29t0b3afbjy7z8",
+      "Name": "Venue",
+      "Value": "Cozy Cone Motel 1",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqu29t0zv7ollnshfp"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqu19qg98iv8ueuaqc",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqu29t0zv7ollnshfp",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqu29t0b3afbjy7z8",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhqu2e2p1k16ksnrlgy",
+      "Name": "Park",
+      "Value": "California Adventure",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqu2e2pw1zyty3k7c"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqu19qg98iv8ueuaqc",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqu2e2pw1zyty3k7c",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqu2e2p1k16ksnrlgy",
       "Rel": "Components"
     }
   ]
