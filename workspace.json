@@ -675,10 +675,11 @@
       "ID": "lhjos3uyag1mzyt477",
       "Name": "Sweet Thai Chile Chicken Tenders",
       "Linked": {
-        "Children": [
-          "lhqngdy0j44cxthrl1"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lhqngknmlgsgho2qcdg"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
@@ -1106,14 +1107,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhqngdy0j44cxthrl1",
-      "Name": "",
+      "ID": "lhqngknmlgsgho2qcdg",
+      "Name": "Location",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqngknng3lyq7f3tp7"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhjos3uyag1mzyt477",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqngknng3lyq7f3tp7",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhjos3uyag1mzyt477"
+      "Parent": "lhqngknmlgsgho2qcdg",
+      "Rel": "Components"
     }
   ]
 }
