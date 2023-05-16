@@ -55,7 +55,8 @@
       "lhgr0ixt44a6vyf0tpk": false,
       "lhgr225npnbcvs2hsdd": false,
       "lhqtvsvwz83przw2gz9": false,
-      "lhqtyu3ipeyblietqho": false
+      "lhqtyu3ipeyblietqho": false,
+      "lhqu19qg98iv8ueuaqc": true
     },
     "@quickadd": {
       "@quickadd": true,
@@ -188,8 +189,7 @@
           "lhjos3uyag1mzyt477",
           "lhqtvsvwz83przw2gz9",
           "lhqtyu3ipeyblietqho",
-          "lhqu19qg98iv8ueuaqc",
-          "lhqu1fa3t1a7vbo2c6"
+          "lhqu19qg98iv8ueuaqc"
         ],
         "Components": [],
         "Fields": []
@@ -1758,7 +1758,9 @@
       "ID": "lhqu19qg98iv8ueuaqc",
       "Name": "Chocolate Hazelnut Strawberry Churro",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhqu1fa3t1a7vbo2c6"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1772,7 +1774,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpjk0igshzz075pa5"
+      "Parent": "lhqu19qg98iv8ueuaqc"
     }
   ]
 }
