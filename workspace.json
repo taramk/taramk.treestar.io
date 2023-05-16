@@ -30,7 +30,8 @@
       "lhqns12aakni8zkigdv": false,
       "lhqq7tqee83hugvvfvm": false,
       "lhqq7tqen0eszmpgwe": false,
-      "lhqqaqt4pf35clxtn1": true
+      "lhqqaqt4pf35clxtn1": true,
+      "lhqqhpjnmqbd2oi8pj": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -1501,10 +1502,24 @@
       "Name": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lhqqhsf8h4nvudqivnk"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lhqqhsf8h4nvudqivnk",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqqhpjnmqbd2oi8pj",
+      "Rel": "Components"
     }
   ]
 }
