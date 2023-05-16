@@ -2202,7 +2202,8 @@
         "Children": [
           "lhqugl1zs7srlcrcvo",
           "lhquhh0y5x1zk129zeb",
-          "lhqui9m8n85frc2odm"
+          "lhqui9m8n85frc2odm",
+          "lhqujjzjtzdd9gs9sgc"
         ],
         "Components": []
       },
@@ -2232,6 +2233,16 @@
     {
       "ID": "lhqui9m8n85frc2odm",
       "Name": "High Republic Trilogy",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqugfzz5ux6ybz4ei4"
+    },
+    {
+      "ID": "lhqujjzjtzdd9gs9sgc",
+      "Name": "Darth Bane Trilogy",
       "Linked": {
         "Children": [],
         "Components": []
