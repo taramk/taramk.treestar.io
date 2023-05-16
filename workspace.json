@@ -27,7 +27,8 @@
       "lhjos3uyag1mzyt477": false,
       "lhqnqqwlu9ksd0e55zi": true,
       "lhqns9y5gnv2efkgiom": true,
-      "lhqns12aakni8zkigdv": false
+      "lhqns12aakni8zkigdv": false,
+      "lhqq7tqee83hugvvfvm": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -84,7 +85,6 @@
           "@calendar",
           "lhqnqqwlu9ksd0e55zi",
           "lhqns9y5gnv2efkgiom",
-          "lhqns12aakni8zkigdv",
           "lgzgq82ruqvnlbhc7nb",
           "lhksl17qb54gcsdjy2q",
           "lhkyl11kkux6pqd4bn",
@@ -1419,16 +1419,6 @@
       "Attrs": {},
       "Parent": "lhqnqqwlu9ksd0e55zi",
       "Rel": "Components"
-    },
-    {
-      "ID": "lhqns12aakni8zkigdv",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
     },
     {
       "ID": "lhqns9y5gnv2efkgiom",
