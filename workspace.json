@@ -35,7 +35,13 @@
       "lhjosdavqxapcukfbop": false,
       "lhjosd6lr7g0dsgnir": false,
       "lhjoscypzeysgag516": false,
-      "lhjos3uyag1mzyt477": false
+      "lhjos3uyag1mzyt477": false,
+      "lhgpqbdb74479bcyx44": true,
+      "lhgprwnm7e0bxentrrn": true,
+      "lhgq29i8yeojytlis8": true,
+      "lhgq4ex8uhuu9pf036h": true,
+      "lhgqgiczwh9b64ys4aq": true,
+      "lhgr0ixt44a6vyf0tpk": true
     },
     "@quickadd": {
       "@quickadd": true,
@@ -168,7 +174,7 @@
         "Fields": []
       },
       "Attrs": {
-        "view": "table"
+        "view": "list"
       },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
