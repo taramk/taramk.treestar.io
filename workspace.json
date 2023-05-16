@@ -182,13 +182,12 @@
       "ID": "lhgpqbdb74479bcyx44",
       "Name": "Potato Sambusa @ Troubadour Tavern",
       "Linked": {
-        "Children": [
-          "lhqlvk1u7d9j3f4q3lu"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
           "lhgpr0z9okq0nwa8lj",
-          "lhgptlolcgo7htdlk3p"
+          "lhgptlolcgo7htdlk3p",
+          "lhqlvxtyfma0llpehml"
         ]
       },
       "Attrs": {},
@@ -856,14 +855,30 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lhqlvk1u7d9j3f4q3lu",
+      "ID": "lhqlvxtyfma0llpehml",
       "Name": "Venue",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqlvxtyw5dwfbmoe7m"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgpqbdb74479bcyx44",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqlvxtyw5dwfbmoe7m",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpqbdb74479bcyx44"
+      "Parent": "lhqlvxtyfma0llpehml",
+      "Rel": "Components"
     }
   ]
 }
