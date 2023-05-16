@@ -588,9 +588,12 @@
       "Name": "Pizza Flop Over",
       "Linked": {
         "Children": [
-          "lhqn5w95l7suxzs7kz"
+          "lhqn6hfp6q1ta04rpgx"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lhqn6e8q2vbjnjc31rl"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
@@ -1019,7 +1022,33 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhqn5w95l7suxzs7kz",
+      "ID": "lhqn6e8q2vbjnjc31rl",
+      "Name": "Location",
+      "Value": "Toontown",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqn6e8q1d1esglgz92"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgr225npnbcvs2hsdd",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqn6e8q1d1esglgz92",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqn6e8q2vbjnjc31rl",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhqn6hfp6q1ta04rpgx",
       "Name": "",
       "Linked": {
         "Children": [],
