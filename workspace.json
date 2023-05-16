@@ -164,7 +164,9 @@
         "Components": [],
         "Fields": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "list"
+      },
       "Parent": "@workspace"
     },
     {
@@ -185,7 +187,7 @@
         "Fields": []
       },
       "Attrs": {
-        "view": "table"
+        "view": "list"
       },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
