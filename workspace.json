@@ -4,7 +4,7 @@
   "expanded": {
     "@workspace": {
       "@calendar": false,
-      "lgzgq82ruqvnlbhc7nb": false,
+      "lgzgq82ruqvnlbhc7nb": true,
       "lgzgqwluo9wxc50sv4j": true,
       "lhgpj9lhufzcr161fvh": true,
       "lhgpjk0igshzz075pa5": true,
@@ -18,10 +18,10 @@
       "lhgqgiczwh9b64ys4aq": true,
       "lhgr0ixt44a6vyf0tpk": true,
       "lhgqpn9l3uijn29hy5m": false,
-      "lhi20dbz3jqr35sfd5d": true,
-      "lhi2cyq1owzcpw10pe": true,
+      "lhi20dbz3jqr35sfd5d": false,
+      "lhi2cyq1owzcpw10pe": false,
       "lhksl17qb54gcsdjy2q": false,
-      "lhkyl11kkux6pqd4bn": true,
+      "lhkyl11kkux6pqd4bn": false,
       "lgzgqyayacqmlw8ww0m": false
     },
     "lhgpj9lhufzcr161fvh": {
