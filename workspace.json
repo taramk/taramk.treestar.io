@@ -85,7 +85,7 @@
       "Linked": {
         "Children": [
           "@calendar",
-          "lhqqaqt4pf35clxtn1",
+          "lhqqb08kcbfqv3zysyq",
           "lhqnqqwlu9ksd0e55zi",
           "lhqns9y5gnv2efkgiom",
           "lgzgq82ruqvnlbhc7nb",
@@ -1532,28 +1532,14 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lhqqaqt4pf35clxtn1",
+      "ID": "lhqqb08kcbfqv3zysyq",
       "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhqqauq11rrg1mjgzcg"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lhqqauq11rrg1mjgzcg",
-      "Name": "treehouse.SearchNode",
-      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhqqaqt4pf35clxtn1",
-      "Rel": "Components"
+      "Parent": "@workspace"
     }
   ]
 }
