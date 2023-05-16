@@ -844,9 +844,7 @@
           "lhl0fk51o9e6h02p9t"
         ],
         "Components": [],
-        "Fields": [
-          "lhqke3joxbopntkf2sp"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lhktwhblp6g67b0lrm"
@@ -954,32 +952,6 @@
         "refTo": "lhgr0ixt44a6vyf0tpk"
       },
       "Parent": "@tmp"
-    },
-    {
-      "ID": "lhqke3joxbopntkf2sp",
-      "Name": "pick up birthday cake for naomi",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhqke3josdglnd2a6mk"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhl0dpbzfk49qdddraj",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lhqke3josdglnd2a6mk",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhqke3joxbopntkf2sp",
-      "Rel": "Components"
     }
   ]
 }
