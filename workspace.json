@@ -315,7 +315,9 @@
           "lhgq45gc1xqarayg1ji"
         ]
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "list"
+      },
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
