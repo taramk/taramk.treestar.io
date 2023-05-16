@@ -221,7 +221,7 @@
     },
     {
       "ID": "lhgprwnm7e0bxentrrn",
-      "Name": "Guava Churro @ Matterhorn Churro Cart",
+      "Name": "Guava Churro",
       "Linked": {
         "Children": [],
         "Components": [],
@@ -884,7 +884,7 @@
     {
       "ID": "lhqm0gsalk9ak9e3zc",
       "Name": "Venue",
-      "Value": "",
+      "Value": "Churro Cart near Matterhorn",
       "Linked": {
         "Children": [],
         "Components": [
