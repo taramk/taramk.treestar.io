@@ -161,7 +161,7 @@
     },
     {
       "ID": "lhgpjk0igshzz075pa5",
-      "Name": "Food",
+      "Name": "Disneyland Food",
       "Linked": {
         "Children": [
           "lhgpqbdb74479bcyx44",
@@ -177,7 +177,7 @@
         "Fields": []
       },
       "Attrs": {
-        "view": "list"
+        "view": "table"
       },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
