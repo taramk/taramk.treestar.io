@@ -223,13 +223,12 @@
       "ID": "lhgprwnm7e0bxentrrn",
       "Name": "Guava Churro @ Matterhorn Churro Cart",
       "Linked": {
-        "Children": [
-          "lhqlzw1p6vctkiv8d1q"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
           "lhgpur3mszzs0sm9rh",
-          "lhgpyo9et18qrkaj90b"
+          "lhgpyo9et18qrkaj90b",
+          "lhqm0gsalk9ak9e3zc"
         ]
       },
       "Attrs": {},
@@ -883,14 +882,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhqlzw1p6vctkiv8d1q",
-      "Name": "",
+      "ID": "lhqm0gsalk9ak9e3zc",
+      "Name": "Venue",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqm0gsa0do7snchl9jc"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgprwnm7e0bxentrrn",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqm0gsa0do7snchl9jc",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgprwnm7e0bxentrrn"
+      "Parent": "lhqm0gsalk9ak9e3zc",
+      "Rel": "Components"
     }
   ]
 }
