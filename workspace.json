@@ -167,7 +167,9 @@
         "Components": [],
         "Fields": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "table"
+      },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
     {
