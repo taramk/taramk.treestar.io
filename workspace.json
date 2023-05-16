@@ -1514,23 +1514,94 @@
       "ID": "lhqtvsvwz83przw2gz9",
       "Name": "Cosmic Disturbance Churro",
       "Linked": {
-        "Children": [
-          "lhqtw9t95yrtw5srwhu"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lhqtwitr53et4wa85z9",
+          "lhqtwrnhgczvw1hypy",
+          "lhqtwwx35ppvy382cn2"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lhqtw9t95yrtw5srwhu",
+      "ID": "lhqtwitr53et4wa85z9",
       "Name": "Land",
+      "Value": "Avengers Campus",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqtwitrf6wgikusbm"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqtvsvwz83przw2gz9",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqtwitrf6wgikusbm",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhqtvsvwz83przw2gz9"
+      "Parent": "lhqtwitr53et4wa85z9",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhqtwrnhgczvw1hypy",
+      "Name": "Type",
+      "Value": "Sweeet",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqtwrnincuf6nzv0o"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqtvsvwz83przw2gz9",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqtwrnincuf6nzv0o",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqtwrnhgczvw1hypy",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lhqtwwx35ppvy382cn2",
+      "Name": "",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqtwwx3mb0f8ljrp8"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqtvsvwz83przw2gz9",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqtwwx3mb0f8ljrp8",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqtwwx35ppvy382cn2",
+      "Rel": "Components"
     }
   ]
 }
