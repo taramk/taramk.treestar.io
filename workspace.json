@@ -168,11 +168,12 @@
           "lhgqgiczwh9b64ys4aq",
           "lhgr0ixt44a6vyf0tpk",
           "lhgr225npnbcvs2hsdd",
-          "lhqn5aj36vimhck875h",
           "lhjos3uyag1mzyt477"
         ],
         "Components": [],
-        "Fields": []
+        "Fields": [
+          "lhqn5g4jkytnm6e8b8n"
+        ]
       },
       "Attrs": {
         "view": "list"
@@ -1017,14 +1018,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lhqn5aj36vimhck875h",
+      "ID": "lhqn5g4jkytnm6e8b8n",
       "Name": " @ Cafe Daisy",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lhqn5g4jko979nzzi9h"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhgpjk0igshzz075pa5",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lhqn5g4jko979nzzi9h",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhgpjk0igshzz075pa5"
+      "Parent": "lhqn5g4jkytnm6e8b8n",
+      "Rel": "Components"
     }
   ]
 }
