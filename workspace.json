@@ -492,7 +492,7 @@
     {
       "ID": "lhgqpn9l3uijn29hy5m",
       "Name": "Type",
-      "Value": "Sweet and savory",
+      "Value": "Sweet",
       "Linked": {
         "Children": [],
         "Components": [
@@ -964,8 +964,8 @@
     },
     {
       "ID": "lhqn2qauptl9261rmk9",
-      "Name": "",
-      "Value": "",
+      "Name": "Venue",
+      "Value": "Refreshment Corner",
       "Linked": {
         "Children": [],
         "Components": [
