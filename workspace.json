@@ -316,7 +316,9 @@
       "ID": "lhgq29i8yeojytlis8",
       "Name": "Bao @ Tropical Hideaway",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhqm2otujm471mj1fyd"
+        ],
         "Components": [],
         "Fields": [
           "lhgq3qhxwznmc94b1e",
@@ -906,6 +908,16 @@
       "Attrs": {},
       "Parent": "lhqm0gsalk9ak9e3zc",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhqm2otujm471mj1fyd",
+      "Name": "Venue",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgq29i8yeojytlis8"
     }
   ]
 }
