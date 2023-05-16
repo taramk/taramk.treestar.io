@@ -2200,7 +2200,8 @@
       "Name": "Star Wars",
       "Linked": {
         "Children": [
-          "lhqugl1zs7srlcrcvo"
+          "lhqugl1zs7srlcrcvo",
+          "lhquhh0y5x1zk129zeb"
         ],
         "Components": []
       },
@@ -2209,6 +2210,16 @@
     },
     {
       "ID": "lhqugl1zs7srlcrcvo",
+      "Name": "Go-to rec for beginners: Lost Stars",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqugfzz5ux6ybz4ei4"
+    },
+    {
+      "ID": "lhquhh0y5x1zk129zeb",
       "Name": "",
       "Linked": {
         "Children": [],
