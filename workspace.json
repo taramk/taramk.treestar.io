@@ -2204,7 +2204,8 @@
           "lhquhh0y5x1zk129zeb",
           "lhqui9m8n85frc2odm",
           "lhqujjzjtzdd9gs9sgc",
-          "lhquju0xr16iykhtlfd"
+          "lhquju0xr16iykhtlfd",
+          "lhqumix27ja39ms94rf"
         ],
         "Components": []
       },
@@ -2254,6 +2255,16 @@
     {
       "ID": "lhquju0xr16iykhtlfd",
       "Name": "Dark Disciple - Christy Golden",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqugfzz5ux6ybz4ei4"
+    },
+    {
+      "ID": "lhqumix27ja39ms94rf",
+      "Name": "Ahsoka - EK Johnston",
       "Linked": {
         "Children": [],
         "Components": []
