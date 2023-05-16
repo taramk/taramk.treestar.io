@@ -180,7 +180,7 @@
     },
     {
       "ID": "lhgpqbdb74479bcyx44",
-      "Name": "Potato Sambusa @ Troubadour Tavern",
+      "Name": "Potato Sambusa",
       "Linked": {
         "Children": [],
         "Components": [],
@@ -223,7 +223,9 @@
       "ID": "lhgprwnm7e0bxentrrn",
       "Name": "Guava Churro @ Matterhorn Churro Cart",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhqlzw1p6vctkiv8d1q"
+        ],
         "Components": [],
         "Fields": [
           "lhgpur3mszzs0sm9rh",
@@ -857,7 +859,7 @@
     {
       "ID": "lhqlvxtyfma0llpehml",
       "Name": "Venue",
-      "Value": "",
+      "Value": "Troubadour Tavern",
       "Linked": {
         "Children": [],
         "Components": [
@@ -879,6 +881,16 @@
       "Attrs": {},
       "Parent": "lhqlvxtyfma0llpehml",
       "Rel": "Components"
+    },
+    {
+      "ID": "lhqlzw1p6vctkiv8d1q",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgprwnm7e0bxentrrn"
     }
   ]
 }
