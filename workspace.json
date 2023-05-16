@@ -171,9 +171,7 @@
           "lhjos3uyag1mzyt477"
         ],
         "Components": [],
-        "Fields": [
-          "lhqn5g4jkytnm6e8b8n"
-        ]
+        "Fields": []
       },
       "Attrs": {
         "view": "list"
@@ -994,7 +992,7 @@
     {
       "ID": "lhqn3nhhax4gbrzjsmf",
       "Name": "Venue",
-      "Value": "Ronto Roasters",
+      "Value": "",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1015,32 +1013,6 @@
       },
       "Attrs": {},
       "Parent": "lhqn3nhhax4gbrzjsmf",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lhqn5g4jkytnm6e8b8n",
-      "Name": " @ Cafe Daisy",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhqn5g4jko979nzzi9h"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhgpjk0igshzz075pa5",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lhqn5g4jko979nzzi9h",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhqn5g4jkytnm6e8b8n",
       "Rel": "Components"
     }
   ]
