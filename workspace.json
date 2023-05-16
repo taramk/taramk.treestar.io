@@ -2203,7 +2203,8 @@
           "lhqugl1zs7srlcrcvo",
           "lhquhh0y5x1zk129zeb",
           "lhqui9m8n85frc2odm",
-          "lhqujjzjtzdd9gs9sgc"
+          "lhqujjzjtzdd9gs9sgc",
+          "lhquju0xr16iykhtlfd"
         ],
         "Components": []
       },
@@ -2243,6 +2244,16 @@
     {
       "ID": "lhqujjzjtzdd9gs9sgc",
       "Name": "Darth Bane Trilogy",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqugfzz5ux6ybz4ei4"
+    },
+    {
+      "ID": "lhquju0xr16iykhtlfd",
+      "Name": "Dark Disciple",
       "Linked": {
         "Children": [],
         "Components": []
