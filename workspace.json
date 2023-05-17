@@ -26,7 +26,8 @@
       "lhjos3uyag1mzyt477": false,
       "lhqnqqwlu9ksd0e55zi": false,
       "lhqns9y5gnv2efkgiom": false,
-      "lhqugck2ppqhg5lia7": true
+      "lhqugck2ppqhg5lia7": true,
+      "lhrwsju36ndkg1w4wpg": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -2243,13 +2244,25 @@
     },
     {
       "ID": "lhrwsju36ndkg1w4wpg",
-      "Name": "",
+      "Name": "testing",
+      "Linked": {
+        "Children": [
+          "lhrwsnluvjzzvrjb2nb"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhrwsnluvjzzvrjb2nb",
+      "Name": "child item",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhrwsju36ndkg1w4wpg"
     }
   ]
 }
