@@ -22,7 +22,8 @@
       "lhgr225npnbcvs2hsdd": false,
       "lhjos3uyag1mzyt477": false,
       "lhqnqqwlu9ksd0e55zi": false,
-      "lhqugck2ppqhg5lia7": false
+      "lhqugck2ppqhg5lia7": false,
+      "lhs0lj299konwvjcjz5": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -75,7 +76,6 @@
         "Children": [
           "@calendar",
           "lhs0lj299konwvjcjz5",
-          "lhgpj9lhufzcr161fvh",
           "lhqugck2ppqhg5lia7",
           "lhs0lcysc6xqf76vvvw"
         ],
@@ -119,7 +119,7 @@
       "Attrs": {
         "view": "list"
       },
-      "Parent": "@workspace"
+      "Parent": "lhs0lj299konwvjcjz5"
     },
     {
       "ID": "lhgpjk0igshzz075pa5",
@@ -2065,9 +2065,11 @@
     },
     {
       "ID": "lhs0lj299konwvjcjz5",
-      "Name": "",
+      "Name": "Travel",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhgpj9lhufzcr161fvh"
+        ],
         "Components": []
       },
       "Attrs": {},
