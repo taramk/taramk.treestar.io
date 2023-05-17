@@ -2034,8 +2034,7 @@
       "Linked": {
         "Children": [],
         "Components": [
-          "lhs0owy3geigh06je2k",
-          "lhs1qtpfe7j4q2xx7rm"
+          "lhs0owy3geigh06je2k"
         ]
       },
       "Attrs": {},
@@ -2136,22 +2135,6 @@
         "refTo": "lhqu7dmpp9lcs8klsg"
       },
       "Parent": "@tmp"
-    },
-    {
-      "ID": "lhs1qtpfe7j4q2xx7rm",
-      "Name": "treehouse.Clock",
-      "Value": {
-        "startedAt": "2023-05-17T18:38:49.828Z",
-        "log": [],
-        "showLog": true
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs0or4t5gbymq4e3p",
-      "Rel": "Components"
     }
   ]
 }
