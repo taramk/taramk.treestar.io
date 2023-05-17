@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lhgpj9lhufzcr161fvh",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -74,7 +74,6 @@
       "Linked": {
         "Children": [
           "@calendar",
-          "lhqnqqwlu9ksd0e55zi",
           "lhksl17qb54gcsdjy2q",
           "lhi20dbz3jqr35sfd5d",
           "lhs00bsfi3ne9c19lh",
@@ -1251,30 +1250,6 @@
       },
       "Attrs": {},
       "Parent": "lhqnlcevs559sp1ts8r",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lhqnqqwlu9ksd0e55zi",
-      "Name": "park:disneyland type:savorytesting",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lhqnqu94ocqb8tiql68"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lhqnqu94ocqb8tiql68",
-      "Name": "treehouse.SearchNode",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhqnqqwlu9ksd0e55zi",
       "Rel": "Components"
     },
     {
