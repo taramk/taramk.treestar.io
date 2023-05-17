@@ -24,7 +24,9 @@
       "lhqnqqwlu9ksd0e55zi": false,
       "lhqugck2ppqhg5lia7": false,
       "lhs0lj299konwvjcjz5": false,
-      "lhs0lx2fy9fhqqcpbl9": false
+      "lhs0lx2fy9fhqqcpbl9": false,
+      "lhs0m96r961vkb9687u": false,
+      "lhs0md9mrhm6lzh8jzh": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -78,6 +80,7 @@
           "@calendar",
           "lhs0lj299konwvjcjz5",
           "lhs0m96r961vkb9687u",
+          "lhs0md9mrhm6lzh8jzh",
           "lhs0lx2fy9fhqqcpbl9",
           "lhs0lcysc6xqf76vvvw"
         ],
@@ -2091,13 +2094,47 @@
     },
     {
       "ID": "lhs0m96r961vkb9687u",
-      "Name": "",
+      "Name": "Work Projects",
+      "Linked": {
+        "Children": [
+          "lhs0mfy4p8fakn3f5hj"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhs0md9mrhm6lzh8jzh",
+      "Name": "Home",
+      "Linked": {
+        "Children": [
+          "lhs0mjwlau63p4b0k7"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhs0mfy4p8fakn3f5hj",
+      "Name": "...",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhs0m96r961vkb9687u"
+    },
+    {
+      "ID": "lhs0mjwlau63p4b0k7",
+      "Name": "...",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs0md9mrhm6lzh8jzh"
     }
   ]
 }
