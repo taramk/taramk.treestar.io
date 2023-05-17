@@ -152,7 +152,6 @@
       "Name": "Disneyland 2023",
       "Linked": {
         "Children": [
-          "lhrvuha2o6lc887hye",
           "lhgpjk0igshzz075pa5"
         ],
         "Components": [],
@@ -2252,16 +2251,6 @@
         "refTo": "lhqu7dmpp9lcs8klsg"
       },
       "Parent": "@tmp"
-    },
-    {
-      "ID": "lhrvuha2o6lc887hye",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhgpj9lhufzcr161fvh"
     }
   ]
 }
