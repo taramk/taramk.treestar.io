@@ -42,7 +42,8 @@
       "lhqtyu3ipeyblietqho": false,
       "lhqu19qg98iv8ueuaqc": false,
       "lhqu4v8ih84ivjdwvz9": false,
-      "lhqu7dmpp9lcs8klsg": false
+      "lhqu7dmpp9lcs8klsg": false,
+      "lhrvutngbx49yrdjc48": true
     },
     "@quickadd": {
       "@quickadd": true,
@@ -2258,10 +2259,24 @@
       "Name": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lhrvuxx3droxgfm15cl"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpj9lhufzcr161fvh"
+    },
+    {
+      "ID": "lhrvuxx3droxgfm15cl",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhrvutngbx49yrdjc48",
+      "Rel": "Components"
     }
   ]
 }
