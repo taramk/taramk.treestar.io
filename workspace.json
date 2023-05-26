@@ -3,7 +3,7 @@
   "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
-      "@calendar": true,
+      "@calendar": false,
       "lhgpj9lhufzcr161fvh": true,
       "lhgpjk0igshzz075pa5": true,
       "lhgpqbdb74479bcyx44": false,
@@ -82,6 +82,7 @@
       "Linked": {
         "Children": [
           "@calendar",
+          "lhktwhbk85hltv4vcm8",
           "lhs0lj299konwvjcjz5",
           "lhs0m96r961vkb9687u",
           "lhs5mglb7r5ugewh7qr",
@@ -98,9 +99,7 @@
       "ID": "@calendar",
       "Name": "Calendar",
       "Linked": {
-        "Children": [
-          "lhktwhbk85hltv4vcm8"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {},
@@ -611,7 +610,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@calendar"
+      "Parent": "@workspace"
     },
     {
       "ID": "lhktwhblp6g67b0lrm",
