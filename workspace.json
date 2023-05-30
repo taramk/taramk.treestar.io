@@ -66,7 +66,8 @@
     "lhgpjk0igshzz075pa5": {
       "lhqu4v8ih84ivjdwvz9": true,
       "liaijnkbgqnoq18z9a": true,
-      "lhgr0ixt44a6vyf0tpk": true
+      "lhgr0ixt44a6vyf0tpk": true,
+      "liaiwvho4b3jayprqxe": true
     }
   },
   "nodes": [
@@ -2232,11 +2233,23 @@
       "ID": "liaiwvho4b3jayprqxe",
       "Name": "Serengeti Stew",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "liaix51e9orcwkf5rsf"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
+    },
+    {
+      "ID": "liaix51e9orcwkf5rsf",
+      "Name": "Land",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "liaiwvho4b3jayprqxe"
     }
   ]
 }
