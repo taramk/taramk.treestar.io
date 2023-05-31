@@ -71,7 +71,8 @@
       "libyvxwfn3gzv2sw1wl": false,
       "lic05soj6u8w7w560xd": false,
       "lic06scsog89pjszkz": false,
-      "lhgqgiczwh9b64ys4aq": true
+      "lhgqgiczwh9b64ys4aq": true,
+      "lic0aw6mbiswqok6nkf": true
     }
   },
   "nodes": [
@@ -163,6 +164,7 @@
           "libyvxwfn3gzv2sw1wl",
           "lic05soj6u8w7w560xd",
           "lic06scsog89pjszkz",
+          "lic0aw6mbiswqok6nkf",
           "lic07ie83d9v20vugux",
           "liaijnkbgqnoq18z9a"
         ],
@@ -2535,6 +2537,28 @@
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
+    },
+    {
+      "ID": "lic0aw6mbiswqok6nkf",
+      "Name": "Kale-Chickpea Salad",
+      "Linked": {
+        "Children": [
+          "lic0b009xzcitmtguim"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhgpjk0igshzz075pa5"
+    },
+    {
+      "ID": "lic0b009xzcitmtguim",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic0aw6mbiswqok6nkf"
     }
   ]
 }
