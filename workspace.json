@@ -1972,7 +1972,9 @@
       "ID": "lhs5mhy2hdo27ewd7j",
       "Name": "one",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lic2mtu55ewq066m3f3"
+        ],
         "Components": [],
         "Fields": [
           "lic2mlpuumbfsrc6yz"
@@ -5436,6 +5438,16 @@
       "Attrs": {},
       "Parent": "lic2mlpuumbfsrc6yz",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic2mtu55ewq066m3f3",
+      "Name": "colorf",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs5mhy2hdo27ewd7j"
     }
   ]
 }
