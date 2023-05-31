@@ -93,7 +93,7 @@
       "lic14q2xcjli20wh0z": false,
       "lic2h1a7y5uejg4dvy": true,
       "lic2hj3fkecrw62gwrr": false,
-      "lic2hvzrf0i7xgsbp1o": true
+      "lic2hvzrf0i7xgsbp1o": false
     }
   },
   "nodes": [
@@ -5398,10 +5398,120 @@
       "Name": "Potato Sambusa",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lic2j6b4u52j2ddz8b8",
+          "lic2j83a5mhrmf9j78c",
+          "lic2j99fpxej8xctts",
+          "lic2jalcujsm5f8waq"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
+    },
+    {
+      "ID": "lic2j6b4u52j2ddz8b8",
+      "Name": "Venue",
+      "Value": "Troubadour Tavern",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2j6b4497fryytocc"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2hvzrf0i7xgsbp1o",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2j6b4497fryytocc",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2j6b4u52j2ddz8b8",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lic2j83a5mhrmf9j78c",
+      "Name": "Park",
+      "Value": "Disneyland",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2j83ar2le9x3351"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2hvzrf0i7xgsbp1o",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2j83ar2le9x3351",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2j83a5mhrmf9j78c",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lic2j99fpxej8xctts",
+      "Name": "Land",
+      "Value": "Fantasyland",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2j99frd8kgjp9trc"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2hvzrf0i7xgsbp1o",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2j99frd8kgjp9trc",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2j99fpxej8xctts",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lic2jalcujsm5f8waq",
+      "Name": "Type",
+      "Value": "Savory",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2jalc5lhtkw6cdjo"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2hvzrf0i7xgsbp1o",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2jalc5lhtkw6cdjo",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2jalcujsm5f8waq",
+      "Rel": "Components"
     }
   ]
 }
