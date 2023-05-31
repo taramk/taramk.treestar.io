@@ -1965,6 +1965,7 @@
       "Name": "test",
       "Linked": {
         "Children": [
+          "lic2stpit57m1077kmg",
           "lhs5mhy2hdo27ewd7j",
           "lic2ngah1pgzx436mws",
           "lic2ntx1mq770lr9lq",
@@ -5803,6 +5804,16 @@
       "Attrs": {},
       "Parent": "lic2serdo7mo6s51zz",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic2stpit57m1077kmg",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs5mglb7r5ugewh7qr"
     }
   ]
 }
