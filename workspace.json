@@ -5538,12 +5538,11 @@
       "ID": "lic2ntx1mq770lr9lq",
       "Name": "three",
       "Linked": {
-        "Children": [
-          "lic2o96vgo60hjryukq"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
-          "lic2o63rlkfmznrj6mk"
+          "lic2o63rlkfmznrj6mk",
+          "lic2ok5p7qkjq10oatx"
         ]
       },
       "Attrs": {},
@@ -5576,14 +5575,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lic2o96vgo60hjryukq",
+      "ID": "lic2ok5p7qkjq10oatx",
       "Name": "color",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2ok5qnq3khl14frr"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2ntx1mq770lr9lq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2ok5qnq3khl14frr",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lic2ntx1mq770lr9lq"
+      "Parent": "lic2ok5p7qkjq10oatx",
+      "Rel": "Components"
     }
   ]
 }
