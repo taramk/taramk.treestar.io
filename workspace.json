@@ -1999,7 +1999,6 @@
         ],
         "Components": [],
         "Fields": [
-          "lic2mlpuumbfsrc6yz",
           "lic2nbpozusq6bgjlf"
         ]
       },
@@ -4912,32 +4911,6 @@
       "Rel": "Components"
     },
     {
-      "ID": "lic2mlpuumbfsrc6yz",
-      "Name": "type",
-      "Value": "round",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lic2mlpur1lofg9t1la"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mhy2hdo27ewd7j",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lic2mlpur1lofg9t1la",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lic2mlpuumbfsrc6yz",
-      "Rel": "Components"
-    },
-    {
       "ID": "lic2nbpozusq6bgjlf",
       "Name": "color",
       "Value": "red",
@@ -5392,54 +5365,6 @@
       },
       "Attrs": {},
       "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
-      "ID": "lic99acl7shkmq6xlav",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lhs5mhy2hdo27ewd7j"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lic99acl4o2rm5fi4jt",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic2ozycw6q3r3c4yg"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lic99acmu4xxjivzfdg",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic2s674f1stwjmkhw"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lic99acm7in3vpxq4tc",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic7bzqv4u7w34zbs7"
-      },
-      "Parent": "@tmp"
     },
     {
       "ID": "lic99acnngfzqvicmeh",
@@ -6014,6 +5939,42 @@
         "refTo": "lic2mlpuumbfsrc6yz"
       },
       "Parent": "lhs5mhy2hdo27ewd7j"
+    },
+    {
+      "ID": "lic9gaboq75ru74sny",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lic2ozycw6q3r3c4yg"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lic9gabp2neemzylvjj",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lic2s674f1stwjmkhw"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lic9gabpqncchlnwspe",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lic7bzqv4u7w34zbs7"
+      },
+      "Parent": "@tmp"
     }
   ]
 }
