@@ -92,7 +92,8 @@
       "lic2hvzrf0i7xgsbp1o": false
     },
     "lhs5mglb7r5ugewh7qr": {
-      "lhs5mhy2hdo27ewd7j": true
+      "lhs5mhy2hdo27ewd7j": true,
+      "lic2ngah1pgzx436mws": true
     }
   },
   "nodes": [
@@ -1961,6 +1962,8 @@
       "Linked": {
         "Children": [
           "lhs5mhy2hdo27ewd7j",
+          "lic2ngah1pgzx436mws",
+          "lic2ntx1mq770lr9lq",
           "lhs5mjgcn9s42v8oe8b"
         ],
         "Components": []
@@ -5441,7 +5444,7 @@
     {
       "ID": "lic2nbpozusq6bgjlf",
       "Name": "color",
-      "Value": "",
+      "Value": "red",
       "Linked": {
         "Children": [],
         "Components": [
@@ -5463,6 +5466,82 @@
       "Attrs": {},
       "Parent": "lic2nbpozusq6bgjlf",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic2ngah1pgzx436mws",
+      "Name": "two",
+      "Linked": {
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lic2nloaeeazm01jq8",
+          "lic2nrhp15lt3bteaup"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhs5mglb7r5ugewh7qr"
+    },
+    {
+      "ID": "lic2nloaeeazm01jq8",
+      "Name": "type",
+      "Value": "sharp",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2nloa98ametf9nks"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2ngah1pgzx436mws",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2nloa98ametf9nks",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2nloaeeazm01jq8",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lic2nrhp15lt3bteaup",
+      "Name": "color",
+      "Value": "blue",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2nrhpo3b50aycp7l"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2ngah1pgzx436mws",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2nrhpo3b50aycp7l",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2nrhp15lt3bteaup",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lic2ntx1mq770lr9lq",
+      "Name": "three",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs5mglb7r5ugewh7qr"
     }
   ]
 }
