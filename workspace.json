@@ -5269,7 +5269,8 @@
         "Children": [],
         "Components": [],
         "Fields": [
-          "lic7cf57w1fykl06vbr"
+          "lic7cf57w1fykl06vbr",
+          "lic7d72tdjpe7xm3byt"
         ]
       },
       "Attrs": {},
@@ -5888,6 +5889,32 @@
         "refTo": "lic2hvzrf0i7xgsbp1o"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lic7d72tdjpe7xm3byt",
+      "Name": "type",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic7d72t54370i6bq1t"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic7bzqv4u7w34zbs7",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic7d72t54370i6bq1t",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic7d72tdjpe7xm3byt",
+      "Rel": "Components"
     }
   ]
 }
