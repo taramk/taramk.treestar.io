@@ -71,8 +71,8 @@
       "libyvxwfn3gzv2sw1wl": false,
       "lic05soj6u8w7w560xd": false,
       "lic06scsog89pjszkz": false,
-      "lhgqgiczwh9b64ys4aq": true,
-      "lic0aw6mbiswqok6nkf": true
+      "lhgqgiczwh9b64ys4aq": false,
+      "lic0aw6mbiswqok6nkf": false
     }
   },
   "nodes": [
@@ -165,6 +165,7 @@
           "lic05soj6u8w7w560xd",
           "lic06scsog89pjszkz",
           "lic0aw6mbiswqok6nkf",
+          "lic0bd9q16hocx320m4j",
           "lic07ie83d9v20vugux",
           "liaijnkbgqnoq18z9a"
         ],
@@ -2542,23 +2543,50 @@
       "ID": "lic0aw6mbiswqok6nkf",
       "Name": "Kale-Chickpea Salad",
       "Linked": {
-        "Children": [
-          "lic0b009xzcitmtguim"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lic0b9fhtwzb7cup2a"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lic0b009xzcitmtguim",
+      "ID": "lic0b9fhtwzb7cup2a",
+      "Name": "Venue",
+      "Value": "Red Rose Tavern",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic0b9fhk1upcgb30if"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic0aw6mbiswqok6nkf",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic0b9fhk1upcgb30if",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic0b9fhtwzb7cup2a",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lic0bd9q16hocx320m4j",
       "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lic0aw6mbiswqok6nkf"
+      "Parent": "lhgpjk0igshzz075pa5"
     }
   ]
 }
