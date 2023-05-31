@@ -5538,7 +5538,9 @@
       "ID": "lic2ntx1mq770lr9lq",
       "Name": "three",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lic2o96vgo60hjryukq"
+        ],
         "Components": [],
         "Fields": [
           "lic2o63rlkfmznrj6mk"
@@ -5550,7 +5552,7 @@
     {
       "ID": "lic2o63rlkfmznrj6mk",
       "Name": "type",
-      "Value": "",
+      "Value": "sharp",
       "Linked": {
         "Children": [],
         "Components": [
@@ -5572,6 +5574,16 @@
       "Attrs": {},
       "Parent": "lic2o63rlkfmznrj6mk",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic2o96vgo60hjryukq",
+      "Name": "color",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2ntx1mq770lr9lq"
     }
   ]
 }
