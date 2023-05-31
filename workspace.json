@@ -2539,10 +2539,11 @@
       "ID": "lic07ie83d9v20vugux",
       "Name": "Spinach and Feta Roll",
       "Linked": {
-        "Children": [
-          "lic0pkiv7k5hi9ezoda"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lic0pwgq5zw4dscm6e6"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
@@ -2716,14 +2717,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lic0pkiv7k5hi9ezoda",
+      "ID": "lic0pwgq5zw4dscm6e6",
       "Name": "Venue",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic0pwgqnryr48a3fkp"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic07ie83d9v20vugux",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic0pwgqnryr48a3fkp",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lic07ie83d9v20vugux"
+      "Parent": "lic0pwgq5zw4dscm6e6",
+      "Rel": "Components"
     }
   ]
 }
