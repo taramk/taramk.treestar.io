@@ -98,7 +98,8 @@
       "lic2ozycw6q3r3c4yg": true,
       "lic2rwv5l1l33a2ux49": true,
       "lic2s674f1stwjmkhw": true,
-      "lic2stpit57m1077kmg": true
+      "lic2stpit57m1077kmg": true,
+      "lic2z2kf8kw8l5mspwe": true
     }
   },
   "nodes": [
@@ -5872,10 +5873,24 @@
       "Name": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lic2zjkxim1mauir1zb"
+        ]
       },
       "Attrs": {},
       "Parent": "lhs5mglb7r5ugewh7qr"
+    },
+    {
+      "ID": "lic2zjkxim1mauir1zb",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2z2kf8kw8l5mspwe",
+      "Rel": "Components"
     }
   ]
 }
