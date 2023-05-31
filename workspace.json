@@ -74,7 +74,8 @@
       "lhgqgiczwh9b64ys4aq": false,
       "lic0aw6mbiswqok6nkf": false,
       "lic0c7e3zadpwqzofd": false,
-      "lic0cpqaje6tzb1fiyd": false
+      "lic0cpqaje6tzb1fiyd": false,
+      "lic0bd9q16hocx320m4j": true
     }
   },
   "nodes": [
@@ -2584,10 +2585,13 @@
     },
     {
       "ID": "lic0bd9q16hocx320m4j",
-      "Name": "",
+      "Name": "Fried Chicken",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lic0fl2jielhkpeiz7k"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
@@ -2681,6 +2685,32 @@
       },
       "Attrs": {},
       "Parent": "lic0cpqaje6tzb1fiyd"
+    },
+    {
+      "ID": "lic0fl2jielhkpeiz7k",
+      "Name": "Venue",
+      "Value": "Plaza Inn",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic0fl2k4hl6212noi3"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic0bd9q16hocx320m4j",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic0fl2k4hl6212noi3",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic0fl2jielhkpeiz7k",
+      "Rel": "Components"
     }
   ]
 }
