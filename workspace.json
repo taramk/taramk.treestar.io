@@ -2148,7 +2148,9 @@
       "ID": "liaiwvho4b3jayprqxe",
       "Name": "Serengeti Stew",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "libyurws10qp4ow8yzz"
+        ],
         "Components": [],
         "Fields": [
           "libytktt324t4jma5ii",
@@ -2309,8 +2311,8 @@
     },
     {
       "ID": "libyuj5a8t0gpnkk62",
-      "Name": "",
-      "Value": "",
+      "Name": "Venue",
+      "Value": "Troubadour Tavern",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2332,6 +2334,16 @@
       "Attrs": {},
       "Parent": "libyuj5a8t0gpnkk62",
       "Rel": "Components"
+    },
+    {
+      "ID": "libyurws10qp4ow8yzz",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "liaiwvho4b3jayprqxe"
     }
   ]
 }
