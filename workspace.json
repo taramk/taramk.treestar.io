@@ -5414,7 +5414,7 @@
     {
       "ID": "lic2mlpuumbfsrc6yz",
       "Name": "type",
-      "Value": "",
+      "Value": "round",
       "Linked": {
         "Children": [],
         "Components": [
