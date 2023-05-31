@@ -2448,23 +2448,40 @@
       "ID": "lic05soj6u8w7w560xd",
       "Name": "Affogato",
       "Linked": {
-        "Children": [
-          "lic05xsxxt89mq2ovid"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lic063c7glylp0cl4ef"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
-      "ID": "lic05xsxxt89mq2ovid",
-      "Name": "",
+      "ID": "lic063c7glylp0cl4ef",
+      "Name": "Venue",
+      "Value": "Schmoozies",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic063c7p3fw3lws1kq"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic05soj6u8w7w560xd",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic063c7p3fw3lws1kq",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lic05soj6u8w7w560xd"
+      "Parent": "lic063c7glylp0cl4ef",
+      "Rel": "Components"
     }
   ]
 }
