@@ -2594,7 +2594,9 @@
       "ID": "lic0c7e3zadpwqzofd",
       "Name": "Prickly Pear Agua Fresca",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lic0cpqaje6tzb1fiyd"
+        ],
         "Components": [],
         "Fields": [
           "lic0cdxq3ukxdfud8uh"
@@ -2605,7 +2607,7 @@
     },
     {
       "ID": "lic0cdxq3ukxdfud8uh",
-      "Name": "",
+      "Name": "Venue",
       "Value": "Rancho del Zocalo",
       "Linked": {
         "Children": [],
@@ -2628,6 +2630,16 @@
       "Attrs": {},
       "Parent": "lic0cdxq3ukxdfud8uh",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic0cpqaje6tzb1fiyd",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic0c7e3zadpwqzofd"
     }
   ]
 }
