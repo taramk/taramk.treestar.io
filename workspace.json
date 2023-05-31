@@ -5606,7 +5606,9 @@
       "ID": "lic2ozycw6q3r3c4yg",
       "Name": "four",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lic2rjznew69pzmxvz"
+        ],
         "Components": [],
         "Fields": [
           "lic2p7m5jup8fuft52"
@@ -5618,7 +5620,7 @@
     {
       "ID": "lic2p7m5jup8fuft52",
       "Name": "type",
-      "Value": "",
+      "Value": "round",
       "Linked": {
         "Children": [],
         "Components": [
@@ -5640,6 +5642,16 @@
       "Attrs": {},
       "Parent": "lic2p7m5jup8fuft52",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic2rjznew69pzmxvz",
+      "Name": "color",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2ozycw6q3r3c4yg"
     }
   ]
 }
