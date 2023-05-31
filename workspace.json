@@ -5538,23 +5538,40 @@
       "ID": "lic2ntx1mq770lr9lq",
       "Name": "three",
       "Linked": {
-        "Children": [
-          "lic2nyizxkcxmgh9mf"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lic2o63rlkfmznrj6mk"
+        ]
       },
       "Attrs": {},
       "Parent": "lhs5mglb7r5ugewh7qr"
     },
     {
-      "ID": "lic2nyizxkcxmgh9mf",
+      "ID": "lic2o63rlkfmznrj6mk",
       "Name": "type",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic2o63rgmqkipmolad"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2ntx1mq770lr9lq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic2o63rgmqkipmolad",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lic2ntx1mq770lr9lq"
+      "Parent": "lic2o63rlkfmznrj6mk",
+      "Rel": "Components"
     }
   ]
 }
