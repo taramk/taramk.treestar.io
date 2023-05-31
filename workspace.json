@@ -94,7 +94,8 @@
     "lhs5mglb7r5ugewh7qr": {
       "lhs5mhy2hdo27ewd7j": true,
       "lic2ngah1pgzx436mws": true,
-      "lic2ntx1mq770lr9lq": true
+      "lic2ntx1mq770lr9lq": true,
+      "lic2ozycw6q3r3c4yg": true
     }
   },
   "nodes": [
@@ -1965,6 +1966,7 @@
           "lhs5mhy2hdo27ewd7j",
           "lic2ngah1pgzx436mws",
           "lic2ntx1mq770lr9lq",
+          "lic2ozycw6q3r3c4yg",
           "lhs5mjgcn9s42v8oe8b"
         ],
         "Components": []
@@ -5577,7 +5579,7 @@
     {
       "ID": "lic2ok5p7qkjq10oatx",
       "Name": "color",
-      "Value": "",
+      "Value": "red",
       "Linked": {
         "Children": [],
         "Components": [
@@ -5599,6 +5601,28 @@
       "Attrs": {},
       "Parent": "lic2ok5p7qkjq10oatx",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic2ozycw6q3r3c4yg",
+      "Name": "four",
+      "Linked": {
+        "Children": [
+          "lic2p38t1t3h0kvap72"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs5mglb7r5ugewh7qr"
+    },
+    {
+      "ID": "lic2p38t1t3h0kvap72",
+      "Name": "type",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic2ozycw6q3r3c4yg"
     }
   ]
 }
