@@ -2148,12 +2148,11 @@
       "ID": "liaiwvho4b3jayprqxe",
       "Name": "Serengeti Stew",
       "Linked": {
-        "Children": [
-          "libytt1fxa28r5rvi2i"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
-          "libytktt324t4jma5ii"
+          "libytktt324t4jma5ii",
+          "libytywxiic2rad9rhc"
         ]
       },
       "Attrs": {},
@@ -2270,14 +2269,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "libytt1fxa28r5rvi2i",
+      "ID": "libytywxiic2rad9rhc",
       "Name": "",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "libytywx7rj1aj1spe7"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "liaiwvho4b3jayprqxe",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "libytywx7rj1aj1spe7",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "liaiwvho4b3jayprqxe"
+      "Parent": "libytywxiic2rad9rhc",
+      "Rel": "Components"
     }
   ]
 }
