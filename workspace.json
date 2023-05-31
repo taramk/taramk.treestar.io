@@ -4994,7 +4994,7 @@
     },
     {
       "ID": "lic2nrhp15lt3bteaup",
-      "Name": "colorthree",
+      "Name": "color",
       "Value": "blue",
       "Linked": {
         "Children": [],
@@ -5908,23 +5908,40 @@
       "ID": "lic7bzqv4u7w34zbs7",
       "Name": "three",
       "Linked": {
-        "Children": [
-          "lic7c321sx89ybg3ey"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lic7cf57w1fykl06vbr"
+        ]
       },
       "Attrs": {},
       "Parent": "lhs5mglb7r5ugewh7qr"
     },
     {
-      "ID": "lic7c321sx89ybg3ey",
-      "Name": "",
+      "ID": "lic7cf57w1fykl06vbr",
+      "Name": "color",
+      "Value": "red",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lic7cf57xg7ioqtxhj"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic7bzqv4u7w34zbs7",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lic7cf57xg7ioqtxhj",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lic7bzqv4u7w34zbs7"
+      "Parent": "lic7cf57w1fykl06vbr",
+      "Rel": "Components"
     }
   ]
 }
