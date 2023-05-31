@@ -4927,7 +4927,7 @@
     {
       "ID": "lic2nbpozusq6bgjlf",
       "Name": "color",
-      "Value": "red",
+      "Value": "blue",
       "Linked": {
         "Children": [],
         "Components": [
@@ -5301,30 +5301,6 @@
       "Attrs": {},
       "Parent": "lic7cf57w1fykl06vbr",
       "Rel": "Components"
-    },
-    {
-      "ID": "lic7cytoy2z9fjnkqnm",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lhs5mhy2hdo27ewd7j"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lic7cytpqu78gqwl49q",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic7bzqv4u7w34zbs7"
-      },
-      "Parent": "@tmp"
     },
     {
       "ID": "lic7czljawh5xu7x5s9",
@@ -5918,6 +5894,18 @@
     },
     {
       "ID": "lic7df19jguxe0mvd2f",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lic7bzqv4u7w34zbs7"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lic7drm5pesxqc9gxi",
       "Name": "",
       "Linked": {
         "Children": [],
