@@ -2635,7 +2635,9 @@
       "ID": "lic0cpqaje6tzb1fiyd",
       "Name": "Green Chile Cheese Nachos (chicken or beef)",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lic0dit3u9sozg616pj"
+        ],
         "Components": [],
         "Fields": [
           "lic0dankryk91nck7vi"
@@ -2646,8 +2648,8 @@
     },
     {
       "ID": "lic0dankryk91nck7vi",
-      "Name": "",
-      "Value": "",
+      "Name": "Venue",
+      "Value": "Rancho del Zocalo",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2669,6 +2671,16 @@
       "Attrs": {},
       "Parent": "lic0dankryk91nck7vi",
       "Rel": "Components"
+    },
+    {
+      "ID": "lic0dit3u9sozg616pj",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lic0cpqaje6tzb1fiyd"
     }
   ]
 }
