@@ -139,7 +139,8 @@
     "lidmz5ad8ocxbecoidh": {
       "lidmz6hiivjbicb58na": true,
       "lidn2w6d041yaxfp8uvf": true,
-      "lidn3wztkxi6e1pe1t": true
+      "lidn3wztkxi6e1pe1t": true,
+      "lidnkeiqt6af4t3y6x8": true
     }
   },
   "nodes": [
@@ -6542,7 +6543,8 @@
         "Children": [
           "lidmz6hiivjbicb58na",
           "lidn2w6d041yaxfp8uvf",
-          "lidn3wztkxi6e1pe1t"
+          "lidn3wztkxi6e1pe1t",
+          "lidnkeiqt6af4t3y6x8"
         ],
         "Components": []
       },
@@ -6658,6 +6660,28 @@
       },
       "Attrs": {},
       "Parent": "lidn2w6d041yaxfp8uvf"
+    },
+    {
+      "ID": "lidnkeiqt6af4t3y6x8",
+      "Name": "Anaheim Del Sol Inn",
+      "Linked": {
+        "Children": [
+          "lidnkk0x794jczotwgf"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidmz5ad8ocxbecoidh"
+    },
+    {
+      "ID": "lidnkk0x794jczotwgf",
+      "Name": "Is it really as scary as people say?",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidnkeiqt6af4t3y6x8"
     }
   ]
 }
