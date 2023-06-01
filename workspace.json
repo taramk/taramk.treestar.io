@@ -135,7 +135,8 @@
     "lidmjmps0oypur5ru0xf": {
       "lidmhios0sf0w6b9u5s": true,
       "lhs0lcysc6xqf76vvvw": true
-    }
+    },
+    "lidmz5ad8ocxbecoidh": {}
   },
   "nodes": [
     {
@@ -6544,7 +6545,7 @@
     },
     {
       "ID": "lidmz6hiivjbicb58na",
-      "Name": "",
+      "Name": "The Anaheim Hotel",
       "Linked": {
         "Children": [],
         "Components": []
