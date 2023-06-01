@@ -137,7 +137,8 @@
       "lhs0lcysc6xqf76vvvw": true
     },
     "lidmz5ad8ocxbecoidh": {
-      "lidmz6hiivjbicb58na": true
+      "lidmz6hiivjbicb58na": true,
+      "lidn2w6d041yaxfp8uvf": true
     }
   },
   "nodes": [
@@ -6538,7 +6539,8 @@
       "Name": "Hotels",
       "Linked": {
         "Children": [
-          "lidmz6hiivjbicb58na"
+          "lidmz6hiivjbicb58na",
+          "lidn2w6d041yaxfp8uvf"
         ],
         "Components": []
       },
@@ -6570,13 +6572,46 @@
     },
     {
       "ID": "lidmztwyxddibip5ri",
-      "Name": "maybe $635",
+      "Name": "$635 on website",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lidmz6hiivjbicb58na"
+    },
+    {
+      "ID": "lidn2w6d041yaxfp8uvf",
+      "Name": "Hotel Lulu",
+      "Linked": {
+        "Children": [
+          "lidn2zqv8e56hbm62gx",
+          "lidn3d0hsgz117v0kz"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidmz5ad8ocxbecoidh"
+    },
+    {
+      "ID": "lidn2zqv8e56hbm62gx",
+      "Name": "has slight discounts booking on their actual site, but maybe cheaper elsewhere",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidn2w6d041yaxfp8uvf"
+    },
+    {
+      "ID": "lidn3d0hsgz117v0kz",
+      "Name": "$505 on website",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidn2w6d041yaxfp8uvf"
     }
   ]
 }
