@@ -6620,7 +6620,8 @@
       "Name": "Anaheim Desert Inn and Suites",
       "Linked": {
         "Children": [
-          "lidn58ka1ef0lpyvrm9"
+          "lidn58ka1ef0lpyvrm9",
+          "lidn7dvnla9cgymo28"
         ],
         "Components": []
       },
@@ -6629,7 +6630,17 @@
     },
     {
       "ID": "lidn58ka1ef0lpyvrm9",
-      "Name": "$10 off/night for passholders on website ",
+      "Name": "$10 off/night for passholders on website",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidn3wztkxi6e1pe1t"
+    },
+    {
+      "ID": "lidn7dvnla9cgymo28",
+      "Name": "659.55 on website (if they remove the $60 parking fee) ",
       "Linked": {
         "Children": [],
         "Components": []
