@@ -6666,7 +6666,8 @@
       "Name": "Anaheim Del Sol Inn",
       "Linked": {
         "Children": [
-          "lidnkk0x794jczotwgf"
+          "lidnkk0x794jczotwgf",
+          "lidnksouh14oufuq90f"
         ],
         "Components": []
       },
@@ -6676,6 +6677,16 @@
     {
       "ID": "lidnkk0x794jczotwgf",
       "Name": "Is it really as scary as people say?",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidnkeiqt6af4t3y6x8"
+    },
+    {
+      "ID": "lidnksouh14oufuq90f",
+      "Name": "$563 totalt",
       "Linked": {
         "Children": [],
         "Components": []
