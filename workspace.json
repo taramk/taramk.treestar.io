@@ -191,7 +191,9 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "liezgrcpc1durs2vzy"
+        ],
         "Components": []
       },
       "Attrs": {}
@@ -6776,6 +6778,16 @@
         "refTo": "lic14pvqdcpd3waxk6h"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "liezgrcpc1durs2vzy",
+      "Name": "new node added to today",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
     }
   ]
 }
