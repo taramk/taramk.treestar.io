@@ -146,7 +146,8 @@
     },
     "lhs0lx2fy9fhqqcpbl9": {
       "lhqugck2ppqhg5lia7": true,
-      "lhqugfzz5ux6ybz4ei4": true
+      "lhqugfzz5ux6ybz4ei4": true,
+      "lhqugl1zs7srlcrcvo": true
     }
   },
   "nodes": [
@@ -1836,7 +1837,6 @@
       "Linked": {
         "Children": [
           "lhqugl1zs7srlcrcvo",
-          "livyj3egmbl91jis5i",
           "lhquhh0y5x1zk129zeb",
           "lhqui9m8n85frc2odm",
           "lhqujjzjtzdd9gs9sgc",
@@ -1856,7 +1856,11 @@
       "Name": "Go-to rec for beginners: Lost Stars",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "livyjb8dirv5z306wht",
+          "livyjfae66efisl1o15"
+        ]
       },
       "Attrs": {},
       "Parent": "lhqugfzz5ux6ybz4ei4"
@@ -6825,14 +6829,56 @@
       "Rel": "Components"
     },
     {
-      "ID": "livyj3egmbl91jis5i",
+      "ID": "livyjb8dirv5z306wht",
       "Name": "Canon?",
+      "Value": "test",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "livyjb8dfrxn8jym2no"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqugl1zs7srlcrcvo",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "livyjb8dfrxn8jym2no",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhqugfzz5ux6ybz4ei4"
+      "Parent": "livyjb8dirv5z306wht",
+      "Rel": "Components"
+    },
+    {
+      "ID": "livyjfae66efisl1o15",
+      "Name": "",
+      "Value": "hello",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "livyjfaer410nunti1"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqugl1zs7srlcrcvo",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "livyjfaer410nunti1",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "livyjfae66efisl1o15",
+      "Rel": "Components"
     }
   ]
 }
