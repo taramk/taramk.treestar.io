@@ -6882,5 +6882,7 @@
       "Parent": "@tmp"
     }
   ],
-  "settings": {}
+  "settings": {
+    "theme": "darkmode"
+  }
 }
