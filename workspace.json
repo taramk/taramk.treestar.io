@@ -173,8 +173,7 @@
           "lhs0lj299konwvjcjz5",
           "lhs0m96r961vkb9687u",
           "lhs0md9mrhm6lzh8jzh",
-          "lhs0lx2fy9fhqqcpbl9",
-          "lidmhb8d4pgmgj4eza4"
+          "lhs0lx2fy9fhqqcpbl9"
         ],
         "Components": []
       },
@@ -1885,7 +1884,8 @@
       "Name": "Media",
       "Linked": {
         "Children": [
-          "lhqugck2ppqhg5lia7"
+          "lhqugck2ppqhg5lia7",
+          "lidmhb8d4pgmgj4eza4"
         ],
         "Components": []
       },
@@ -5388,7 +5388,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhs0lx2fy9fhqqcpbl9"
     },
     {
       "ID": "lidmhios0sf0w6b9u5s",
