@@ -47,7 +47,7 @@
       "lhqu19qg98iv8ueuaqc": false,
       "lhqu4v8ih84ivjdwvz9": false,
       "lhqu7dmpp9lcs8klsg": false,
-      "lic2hvzrf0i7xgsbp1o": false,
+      "lic2hvzrf0i7xgsbp1o": true,
       "lidmz5ad8ocxbecoidh": true,
       "lhgpj9lhufzcr161fvh": true,
       "lj4hgki2u8klbt5fthk": true,
@@ -267,7 +267,7 @@
         "Fields": []
       },
       "Attrs": {
-        "view": "table"
+        "view": "list"
       },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
