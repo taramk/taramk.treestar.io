@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lidmhb8d4pgmgj4eza4",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -31,7 +31,8 @@
       "lidmjmps0oypur5ru0xf": true,
       "liezgk55jw0poli0vie": true,
       "liezgk56c5fwp2rfp7g": true,
-      "liezgk57ddqpsafmpak": true
+      "liezgk57ddqpsafmpak": true,
+      "ljizxeyxxfwzjhuci4m": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -209,7 +210,8 @@
           "lhs0lj299konwvjcjz5",
           "lhs0m96r961vkb9687u",
           "lhs0md9mrhm6lzh8jzh",
-          "lhs0lx2fy9fhqqcpbl9"
+          "lhs0lx2fy9fhqqcpbl9",
+          "ljizxeyxxfwzjhuci4m"
         ],
         "Components": []
       },
@@ -6136,6 +6138,30 @@
         "refTo": "lhjos3uyag1mzyt477"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "ljizxeyxxfwzjhuci4m",
+      "Name": "park:California Adventure",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "ljizxmrfj99ji3f8ndj"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "ljizxmrfj99ji3f8ndj",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "ljizxeyxxfwzjhuci4m",
+      "Rel": "Components"
     }
   ],
   "settings": {
