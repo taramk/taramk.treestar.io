@@ -69,7 +69,7 @@
       "lidmz5ad8ocxbecoidh": false,
       "lidmz6hiivjbicb58na": true,
       "lic14pvqdcpd3waxk6h": false,
-      "lic2hvzrf0i7xgsbp1o": true,
+      "lic2hvzrf0i7xgsbp1o": false,
       "lhgprwnm7e0bxentrrn": false,
       "lhgq29i8yeojytlis8": false,
       "lhgq4ex8uhuu9pf036h": false,
@@ -299,7 +299,7 @@
         "Fields": []
       },
       "Attrs": {
-        "view": "list"
+        "view": "table"
       },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
