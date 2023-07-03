@@ -5867,10 +5867,12 @@
     },
     {
       "ID": "ljj023lbblkk0dp6mqo",
-      "Name": "here is an example where i am typing something. does it feel slow or laggy? sometimes. #tag",
+      "Name": "here is an example where i am typing something. does it feel slow or laggy? sometimes.",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "ljn44cqdew0j5eaimd8"
+        ]
       },
       "Attrs": {},
       "Parent": "lj4hof3uuv6l58hjs88"
@@ -6390,6 +6392,20 @@
         "refTo": "lhjos3uyag1mzyt477"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "ljn44cqdew0j5eaimd8",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "QA"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "ljj023lbblkk0dp6mqo",
+      "Rel": "Components"
     }
   ],
   "settings": {
