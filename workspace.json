@@ -1947,8 +1947,13 @@
           "ljq3uy2lochdcwscqp",
           "ljq3uvcu5e4ofcsfom7",
           "ljq3ust06ssl9x6n1x9",
+          "ljq3vbuiynnst19khp",
           "ljq3urtd40ar6jcg6k8",
-          "ljq3uqbuolh9e6alplp"
+          "ljq3vd35ee1v99ie6ws",
+          "ljq3vecpksfy1q6qymn",
+          "ljq3uqbuolh9e6alplp",
+          "ljq3vg7bxo30gel82v",
+          "ljq3vht1h5nvlr2f43j"
         ],
         "Components": []
       },
@@ -5656,7 +5661,7 @@
     },
     {
       "ID": "ljq3uqbuolh9e6alplp",
-      "Name": "Big Swiss\nDreamland\nMargaret and the Mystery of the Missing Body",
+      "Name": "Big Swiss",
       "Linked": {
         "Children": [],
         "Components": []
@@ -5666,7 +5671,7 @@
     },
     {
       "ID": "ljq3urtd40ar6jcg6k8",
-      "Name": "The Only Good Indians\nSomeone Who Will Love You in all Your Damaged Glory\nDrive Your Plow over the Bones of the Dead\n",
+      "Name": "The Only Good Indians",
       "Linked": {
         "Children": [],
         "Components": []
@@ -5676,7 +5681,7 @@
     },
     {
       "ID": "ljq3ust06ssl9x6n1x9",
-      "Name": "The Library at Mount Char\nA Touch of Jen\n",
+      "Name": "The Library at Mount Char",
       "Linked": {
         "Children": [],
         "Components": []
@@ -5747,6 +5752,56 @@
     {
       "ID": "ljq3v91evcakgnrok3",
       "Name": "A River Enchanted",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs0m96r961vkb9687u"
+    },
+    {
+      "ID": "ljq3vbuiynnst19khp",
+      "Name": "A Touch of Jen\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs0m96r961vkb9687u"
+    },
+    {
+      "ID": "ljq3vd35ee1v99ie6ws",
+      "Name": "Someone Who Will Love You in all Your Damaged Glory",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs0m96r961vkb9687u"
+    },
+    {
+      "ID": "ljq3vecpksfy1q6qymn",
+      "Name": "Drive Your Plow over the Bones of the Dead\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs0m96r961vkb9687u"
+    },
+    {
+      "ID": "ljq3vg7bxo30gel82v",
+      "Name": "Dreamland",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs0m96r961vkb9687u"
+    },
+    {
+      "ID": "ljq3vht1h5nvlr2f43j",
+      "Name": "Margaret and the Mystery of the Missing Body",
       "Linked": {
         "Children": [],
         "Components": []
