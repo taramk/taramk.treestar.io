@@ -64,7 +64,8 @@
     },
     "lhs0m96r961vkb9687u": {
       "lhs0mfy4p8fakn3f5hj": true,
-      "lhutcrxlwu6vnmo49m": true
+      "lhutcrxlwu6vnmo49m": true,
+      "lhutctjf9hslrgn229i": false
     },
     "lhs0lj299konwvjcjz5": {
       "lhgpj9lhufzcr161fvh": true,
@@ -1937,8 +1938,7 @@
         "Children": [
           "lhs0mfy4p8fakn3f5hj",
           "lhutc6fw89fh0z3tijn",
-          "lhutcrxlwu6vnmo49m",
-          "lhs5mglb7r5ugewh7qr"
+          "lhutcrxlwu6vnmo49m"
         ],
         "Components": []
       },
@@ -1978,55 +1978,6 @@
       },
       "Attrs": {},
       "Parent": "lhs0md9mrhm6lzh8jzh"
-    },
-    {
-      "ID": "lhs5mglb7r5ugewh7qr",
-      "Name": "test",
-      "Linked": {
-        "Children": [
-          "lic2stpit57m1077kmg",
-          "lic2z2kf8kw8l5mspwe",
-          "lhs5mhy2hdo27ewd7j",
-          "lic2ngah1pgzx436mws",
-          "lic7bzqv4u7w34zbs7",
-          "lic2ozycw6q3r3c4yg",
-          "lic2rwv5l1l33a2ux49",
-          "lic2s674f1stwjmkhw",
-          "lhs5mjgcn9s42v8oe8b",
-          "lic8yhj5zo2gr7nwyo"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs0m96r961vkb9687u"
-    },
-    {
-      "ID": "lhs5mhy2hdo27ewd7j",
-      "Name": "one",
-      "Linked": {
-        "Children": [
-          "lic9fwns6vhopi5ijj6"
-        ],
-        "Components": [],
-        "Fields": [
-          "lic2nbpozusq6bgjlf"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
-      "ID": "lhs5mjgcn9s42v8oe8b",
-      "Name": "testing",
-      "Linked": {
-        "Children": [
-          "lic8yfwg5w26vh7ro3w",
-          "lic8ygpttenok8eqhg"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
     },
     {
       "ID": "lhutc510rp83191r4l",
@@ -4877,20 +4828,6 @@
       "Rel": "Components"
     },
     {
-      "ID": "lic2ngah1pgzx436mws",
-      "Name": "two",
-      "Linked": {
-        "Children": [],
-        "Components": [],
-        "Fields": [
-          "lic2nrhp15lt3bteaup",
-          "lic2nloaeeazm01jq8"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
       "ID": "lic2nloaeeazm01jq8",
       "Name": "type",
       "Value": "sharp",
@@ -4941,20 +4878,6 @@
       "Attrs": {},
       "Parent": "lic2nrhp15lt3bteaup",
       "Rel": "Components"
-    },
-    {
-      "ID": "lic2ozycw6q3r3c4yg",
-      "Name": "four",
-      "Linked": {
-        "Children": [],
-        "Components": [],
-        "Fields": [
-          "lic2p7m5jup8fuft52",
-          "lic2rqf5kl48pl3tji"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
     },
     {
       "ID": "lic2p7m5jup8fuft52",
@@ -5009,20 +4932,6 @@
       "Rel": "Components"
     },
     {
-      "ID": "lic2rwv5l1l33a2ux49",
-      "Name": "five",
-      "Linked": {
-        "Children": [],
-        "Components": [],
-        "Fields": [
-          "lic2s0zr7puzeg69w7",
-          "lic2s4nm6awaq5lhvu"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
       "ID": "lic2s0zr7puzeg69w7",
       "Name": "type",
       "Value": "sharp",
@@ -5073,20 +4982,6 @@
       "Attrs": {},
       "Parent": "lic2s4nm6awaq5lhvu",
       "Rel": "Components"
-    },
-    {
-      "ID": "lic2s674f1stwjmkhw",
-      "Name": "six",
-      "Linked": {
-        "Children": [],
-        "Components": [],
-        "Fields": [
-          "lic2sa9iayeml2gvfwc",
-          "lic2serdo7mo6s51zz"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
     },
     {
       "ID": "lic2sa9iayeml2gvfwc",
@@ -5141,68 +5036,6 @@
       "Rel": "Components"
     },
     {
-      "ID": "lic2stpit57m1077kmg",
-      "Name": "type:round",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lic2t8qoeldj24s3sdo"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
-      "ID": "lic2t8qoeldj24s3sdo",
-      "Name": "treehouse.SearchNode",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lic2stpit57m1077kmg",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lic2z2kf8kw8l5mspwe",
-      "Name": "color:red",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lic2zjkxim1mauir1zb"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
-      "ID": "lic2zjkxim1mauir1zb",
-      "Name": "treehouse.SearchNode",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lic2z2kf8kw8l5mspwe",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lic7bzqv4u7w34zbs7",
-      "Name": "three",
-      "Linked": {
-        "Children": [],
-        "Components": [],
-        "Fields": [
-          "lic7cf57w1fykl06vbr",
-          "lic7d72tdjpe7xm3byt"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
       "ID": "lic7cf57w1fykl06vbr",
       "Name": "color",
       "Value": "red",
@@ -5253,60 +5086,6 @@
       "Attrs": {},
       "Parent": "lic7d72tdjpe7xm3byt",
       "Rel": "Components"
-    },
-    {
-      "ID": "lic8yfwg5w26vh7ro3w",
-      "Name": "one",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs5mjgcn9s42v8oe8b"
-    },
-    {
-      "ID": "lic8ygpttenok8eqhg",
-      "Name": "two",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs5mjgcn9s42v8oe8b"
-    },
-    {
-      "ID": "lic8yhj5zo2gr7nwyo",
-      "Name": "testing",
-      "Linked": {
-        "Children": [
-          "lic8yp86xuzsw24bomt"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
-      "ID": "lic8yp86xuzsw24bomt",
-      "Name": "one",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lic8yhj5zo2gr7nwyo"
-    },
-    {
-      "ID": "lic9fwns6vhopi5ijj6",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic2mlpuumbfsrc6yz"
-      },
-      "Parent": "lhs5mhy2hdo27ewd7j"
     },
     {
       "ID": "lidmz5ad8ocxbecoidh",
@@ -5832,42 +5611,6 @@
       "Parent": "lhs0lx2fy9fhqqcpbl9"
     },
     {
-      "ID": "ljq3hsw6xqtch8re49s",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic2ozycw6q3r3c4yg"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "ljq3hsw7q19dzen72z",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic2s674f1stwjmkhw"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "ljq3hsw7v4wq72xm67p",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic7bzqv4u7w34zbs7"
-      },
-      "Parent": "@tmp"
-    },
-    {
       "ID": "ljq3hto3yi55hxkop5m",
       "Name": "",
       "Linked": {
@@ -5876,18 +5619,6 @@
       },
       "Attrs": {
         "refTo": "lhs5mhy2hdo27ewd7j"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "ljq3hto4hnqzq3mpnin",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lic7bzqv4u7w34zbs7"
       },
       "Parent": "@tmp"
     },
