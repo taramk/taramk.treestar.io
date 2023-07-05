@@ -184,7 +184,7 @@
     "lhs0lx2fy9fhqqcpbl9": {
       "lhqugck2ppqhg5lia7": true,
       "lhqugfzz5ux6ybz4ei4": true,
-      "lhqugl1zs7srlcrcvo": true,
+      "lhqugl1zs7srlcrcvo": false,
       "lidmhb8d4pgmgj4eza4": true,
       "lhs0lx2fy9fhqqcpbl9": true,
       "ljq10fuffkv0muewp": false,
@@ -1843,7 +1843,6 @@
         "Children": [],
         "Components": [],
         "Fields": [
-          "livyjb8dirv5z306wht",
           "livyjfae66efisl1o15"
         ]
       },
@@ -5583,32 +5582,6 @@
       },
       "Attrs": {},
       "Parent": "livyi9boig08v32szxs",
-      "Rel": "Components"
-    },
-    {
-      "ID": "livyjb8dirv5z306wht",
-      "Name": "Canon?",
-      "Value": "test",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "livyjb8dfrxn8jym2no"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhqugl1zs7srlcrcvo",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "livyjb8dfrxn8jym2no",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "livyjb8dirv5z306wht",
       "Rel": "Components"
     },
     {
