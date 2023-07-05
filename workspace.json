@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lhs0lx2fy9fhqqcpbl9",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -32,7 +32,9 @@
       "liezgk55jw0poli0vie": true,
       "liezgk56c5fwp2rfp7g": true,
       "liezgk57ddqpsafmpak": true,
-      "ljizxeyxxfwzjhuci4m": true
+      "ljizxeyxxfwzjhuci4m": false,
+      "ljizxw1c254ivodpxua": true,
+      "ljq3jsyfig6n49wyhc": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -191,7 +193,8 @@
       "ljq10gmhvmnjga1wp0i": false,
       "ljq10uw4a8slvghsx6f": false,
       "ljq11bt3atx7te3lsr": false,
-      "lidmjcysqxd8rwbb907": true
+      "lidmjcysqxd8rwbb907": true,
+      "ljq3ffhydq9k9fqlfmg": false
     },
     "lj4hof3uuv6l58hjs88": {
       "lj4hof3uuv6l58hjs88": false
@@ -1919,8 +1922,7 @@
           "lhqugck2ppqhg5lia7",
           "ljq10fuffkv0muewp",
           "ljq10uw4a8slvghsx6f",
-          "ljq3ffhydq9k9fqlfmg",
-          "ljq11bt3atx7te3lsr"
+          "ljq3ffhydq9k9fqlfmg"
         ],
         "Components": []
       },
@@ -5680,9 +5682,11 @@
     },
     {
       "ID": "ljizxw1c254ivodpxua",
-      "Name": "",
+      "Name": "Templates",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "ljq3jsyfig6n49wyhc"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -5817,16 +5821,6 @@
           "ljq1y2cjkv5x735efdb",
           "ljq1y4ht9kydsy0sk8i"
         ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs0lx2fy9fhqqcpbl9"
-    },
-    {
-      "ID": "ljq11bt3atx7te3lsr",
-      "Name": "",
-      "Linked": {
-        "Children": [],
         "Components": []
       },
       "Attrs": {},
@@ -6101,6 +6095,45 @@
         "refTo": "lic7bzqv4u7w34zbs7"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "ljq3jsyfig6n49wyhc",
+      "Name": "book",
+      "Linked": {
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "ljq3jype5jk4qf5ybug"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "ljizxw1c254ivodpxua"
+    },
+    {
+      "ID": "ljq3jype5jk4qf5ybug",
+      "Name": "author",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "ljq3jypetftufyfiqfb"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "ljq3jsyfig6n49wyhc",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "ljq3jypetftufyfiqfb",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "ljq3jype5jk4qf5ybug",
+      "Rel": "Components"
     }
   ],
   "settings": {
