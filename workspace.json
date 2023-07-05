@@ -221,7 +221,20 @@
       "lhs0mfy4p8fakn3f5hj": false,
       "ljq3vbuiynnst19khp": false,
       "ljq3vecpksfy1q6qymn": false,
-      "ljq3vd35ee1v99ie6ws": false
+      "ljq3vd35ee1v99ie6ws": false,
+      "ljq53109w18bphc094q": false,
+      "ljq52wmjsmvz0n0l56i": false,
+      "ljq52qizg02u884eulk": false,
+      "ljq3vht1h5nvlr2f43j": false,
+      "ljq3vg7bxo30gel82v": false,
+      "ljq3uvcu5e4ofcsfom7": false,
+      "ljq3uy2lochdcwscqp": false,
+      "ljq3v0focv5n8fy5wlc": false,
+      "ljq53iz719vgmuglg05": false,
+      "ljq53deiwexvdckghed": false,
+      "ljq53a7q41ywwxcxbhz": false,
+      "ljq3v2gv1wimlqvvc6i": false,
+      "ljq3v48k9css6fc10ug": false
     }
   },
   "nodes": [
@@ -5568,98 +5581,8 @@
       "Rel": "Components"
     },
     {
-      "ID": "ljq3ust06ssl9x6n1x9",
-      "Name": "The Library at Mount Char - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3uvcu5e4ofcsfom7",
-      "Name": "Paradise Rot - NO\n",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3uy2lochdcwscqp",
-      "Name": "Chlorine - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3v0focv5n8fy5wlc",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3v2gv1wimlqvvc6i",
-      "Name": "Motherthing - yes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3v48k9css6fc10ug",
-      "Name": "Frankenstein - yes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
       "ID": "ljq3vbuiynnst19khp",
       "Name": "A Touch of Jen - NO\n",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3vd35ee1v99ie6ws",
-      "Name": "Someone Who Will Love You in all Your Damaged Glory - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3vg7bxo30gel82v",
-      "Name": "Dreamland - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq3vht1h5nvlr2f43j",
-      "Name": "Margaret and the Mystery of the Missing Body - NO",
       "Linked": {
         "Children": [],
         "Components": []
@@ -5672,23 +5595,7 @@
       "Name": "Download Books",
       "Linked": {
         "Children": [
-          "ljq3v48k9css6fc10ug",
-          "ljq3v2gv1wimlqvvc6i",
-          "ljq53a7q41ywwxcxbhz",
-          "ljq53deiwexvdckghed",
-          "ljq53iz719vgmuglg05",
-          "ljq3v0focv5n8fy5wlc",
-          "ljq3uy2lochdcwscqp",
-          "ljq3uvcu5e4ofcsfom7",
-          "ljq3ust06ssl9x6n1x9",
-          "ljq3vbuiynnst19khp",
-          "ljq3vd35ee1v99ie6ws",
-          "ljq3vg7bxo30gel82v",
-          "ljq3vht1h5nvlr2f43j",
-          "ljq52qizg02u884eulk",
-          "ljq52wmjsmvz0n0l56i",
-          "ljq53109w18bphc094q",
-          "ljq534ha2qe4dvdze26"
+          "ljq3vbuiynnst19khp"
         ],
         "Components": []
       },
@@ -6018,76 +5925,6 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "ljq44xjht9c4wxswgk"
-    },
-    {
-      "ID": "ljq52qizg02u884eulk",
-      "Name": "The Outsiders - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq52wmjsmvz0n0l56i",
-      "Name": "A River Enchanted - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq53109w18bphc094q",
-      "Name": "Piranesi - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq534ha2qe4dvdze26",
-      "Name": "The Buried Giant - NO",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq53a7q41ywwxcxbhz",
-      "Name": "The Only Good Indians - yes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq53deiwexvdckghed",
-      "Name": "Drive Your Plow over the Bones of the Dead - yes\n",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
-    },
-    {
-      "ID": "ljq53iz719vgmuglg05",
-      "Name": "Big Swiss - yes\n",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ljq3wkbxolip292u46"
     }
   ],
   "settings": {
