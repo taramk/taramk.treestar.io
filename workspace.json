@@ -6103,7 +6103,8 @@
         "Children": [],
         "Components": [],
         "Fields": [
-          "ljq3jype5jk4qf5ybug"
+          "ljq3jype5jk4qf5ybug",
+          "ljq3k6ty77g0ekeqsrg"
         ]
       },
       "Attrs": {},
@@ -6133,6 +6134,32 @@
       },
       "Attrs": {},
       "Parent": "ljq3jype5jk4qf5ybug",
+      "Rel": "Components"
+    },
+    {
+      "ID": "ljq3k6ty77g0ekeqsrg",
+      "Name": "genre",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "ljq3k6ty2kjdzbumr4b"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "ljq3jsyfig6n49wyhc",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "ljq3k6ty2kjdzbumr4b",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "ljq3k6ty77g0ekeqsrg",
       "Rel": "Components"
     }
   ],
