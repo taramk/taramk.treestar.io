@@ -67,7 +67,7 @@
       "lhquhh0y5x1zk129zeb": false,
       "lhqugl1zs7srlcrcvo": false,
       "livyi9boig08v32szxs": false,
-      "ljq43fngq9diwb0jte": false,
+      "ljq43fngq9diwb0jte": true,
       "ljq43avlz6gmo625bb8": true,
       "ljq43d0s5k0koi3wr25": true
     },
@@ -5867,7 +5867,7 @@
     {
       "ID": "ljq44xjg76qxnkt5kb7",
       "Name": "author",
-      "Value": "",
+      "Value": "Olga Tokarczuk",
       "Linked": {
         "Children": [],
         "Components": [
