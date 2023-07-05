@@ -188,7 +188,7 @@
       "lidmhb8d4pgmgj4eza4": false
     },
     "lj4hof3uuv6l58hjs88": {
-      "lj4hof3uuv6l58hjs88": false
+      "lj4hof3uuv6l58hjs88": true
     }
   },
   "nodes": [
@@ -5789,7 +5789,9 @@
       "ID": "lj4hof3uuv6l58hjs88",
       "Name": " test",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "ljq09iu789lxyc0npao"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -6420,6 +6422,16 @@
         "refTo": "lhjos3uyag1mzyt477"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "ljq09iu789lxyc0npao",
+      "Name": "this is a test node",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lj4hof3uuv6l58hjs88"
     }
   ],
   "settings": {
