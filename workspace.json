@@ -4914,8 +4914,10 @@
     },
     {
       "ID": "lj4hgncv17gttrfoqw9",
-      "Name": "treehouse.SearchNode",
-      "Value": {},
+      "Name": "treehouse.SmartNode",
+      "Value": {
+        "query": ""
+      },
       "Linked": {
         "Children": [],
         "Components": []
