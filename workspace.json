@@ -158,7 +158,8 @@
       "ljq10uw4a8slvghsx6f": false,
       "ljq3ffhydq9k9fqlfmg": false,
       "ljq43d0s5k0koi3wr25": true,
-      "ljq43fngq9diwb0jte": true
+      "ljq43fngq9diwb0jte": true,
+      "lka7bqx62kqhmuh0unj": true
     },
     "lj4hof3uuv6l58hjs88": {
       "lj4hof3uuv6l58hjs88": false
@@ -1789,7 +1790,8 @@
           "lhqugfzz5ux6ybz4ei4",
           "ljq43avlz6gmo625bb8",
           "ljq43d0s5k0koi3wr25",
-          "ljq43fngq9diwb0jte"
+          "ljq43fngq9diwb0jte",
+          "lka7bqx62kqhmuh0unj"
         ],
         "Components": []
       },
@@ -5669,6 +5671,32 @@
       },
       "Attrs": {},
       "Parent": "lka6d24vixgvvdy6i1e"
+    },
+    {
+      "ID": "lka7bqx62kqhmuh0unj",
+      "Name": "#book",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lka7bxgtqdbh7ekx4ji"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqugck2ppqhg5lia7"
+    },
+    {
+      "ID": "lka7bxgtqdbh7ekx4ji",
+      "Name": "treehouse.SmartNode",
+      "Value": {
+        "query": ""
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka7bqx62kqhmuh0unj",
+      "Rel": "Components"
     }
   ],
   "settings": {
