@@ -169,7 +169,9 @@
     "ljq3wkbxolip292u46": {
       "ljq3wkbxolip292u46": false
     },
-    "lka6d24vixgvvdy6i1e": {}
+    "lka6d24vixgvvdy6i1e": {
+      "lka6ylyva6ee6qxqwi7": false
+    }
   },
   "nodes": [
     {
@@ -5648,7 +5650,7 @@
     },
     {
       "ID": "lka6ylyva6ee6qxqwi7",
-      "Name": "* Captain Maya Williams piloted the Voyager, carrying the remnants of humanity towards a distant exoplanet capable of sustaining life. Inside the *ship's* cryogenic pods, the last survivors slept, unaware of their perilous journey through the cosmos.",
+      "Name": "1. Captain Maya Williams\n2. piloted the Voyager, carrying the remnants of humanity towards a distant exoplanet capable of sustaining life. Inside the *ship's* cryogenic pods, the last survivors slept, unaware of their perilous journey through the cosmos.",
       "Linked": {
         "Children": [],
         "Components": []
