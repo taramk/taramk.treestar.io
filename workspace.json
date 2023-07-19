@@ -26,7 +26,8 @@
       "liezgk57ddqpsafmpak": true,
       "ljizxw1c254ivodpxua": false,
       "ljq3jsyfig6n49wyhc": true,
-      "lka6d0bxqm5d77irupo": true
+      "lka6d0bxqm5d77irupo": true,
+      "lka6d24vixgvvdy6i1e": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -5563,13 +5564,58 @@
     },
     {
       "ID": "lka6d24vixgvvdy6i1e",
-      "Name": "",
+      "Name": "The Last Voyager",
+      "Linked": {
+        "Children": [
+          "lka6ekwydg1q4rwzi2g",
+          "lka6es4k939o7gfx64q",
+          "lka6evrxnn0d6qhp1r",
+          "lka6ez4tc8heznxg86q"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka6d0bxqm5d77irupo"
+    },
+    {
+      "ID": "lka6ekwydg1q4rwzi2g",
+      "Name": "In the year 2175, Earth was on the brink of destruction. Climate catastrophes ravaged the planet, rendering it uninhabitable. Humanity's last hope lay with the Voyager, a state-of-the-art interstellar spacecraft.",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lka6d0bxqm5d77irupo"
+      "Parent": "lka6d24vixgvvdy6i1e"
+    },
+    {
+      "ID": "lka6es4k939o7gfx64q",
+      "Name": "Captain Maya Williams piloted the Voyager, carrying the remnants of humanity towards a distant exoplanet capable of sustaining life. Inside the ship's cryogenic pods, the last survivors slept, unaware of their perilous journey through the cosmos.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka6d24vixgvvdy6i1e"
+    },
+    {
+      "ID": "lka6evrxnn0d6qhp1r",
+      "Name": "As the Voyager hurtled through space, it encountered cosmic storms and navigational hazards. Captain Williams battled the unforgiving void, navigating the ship with skill and determination. Along the way, she found solace in the beauty of the universe, even as she mourned the world she left behind.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka6d24vixgvvdy6i1e"
+    },
+    {
+      "ID": "lka6ez4tc8heznxg86q",
+      "Name": "Finally, after a grueling voyage, the Voyager arrived at its destination—a lush, green expanse shimmering with hope. But Captain Williams would never witness the new world. Her years in space had aged her beyond return, and she chose to remain at the helm as her crew and passengers ventured onto the unexplored planet.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka6d24vixgvvdy6i1e"
     }
   ],
   "settings": {
