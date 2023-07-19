@@ -159,11 +159,7 @@
       "ljq3ffhydq9k9fqlfmg": false,
       "ljq43d0s5k0koi3wr25": false,
       "ljq43fngq9diwb0jte": false,
-      "lka7bqx62kqhmuh0unj": true,
-      "ljq44xjht9c4wxswgk": false,
-      "lka7dhez6ojaiie6wyy": true,
-      "lka7dq3cb46vuwtg8zc": true,
-      "lka7e8p0f7rxb9omopl": true
+      "ljq44xjht9c4wxswgk": false
     },
     "lj4hof3uuv6l58hjs88": {
       "lj4hof3uuv6l58hjs88": false
@@ -5632,30 +5628,6 @@
       "Parent": "lka6d24vixgvvdy6i1e"
     },
     {
-      "ID": "lka6o1ijfysyuw3lzp5",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lj4hof3uuv6l58hjs88"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lka6o1ik2r7w0haxbeo",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "ljq09iu789lxyc0npao"
-      },
-      "Parent": "@tmp"
-    },
-    {
       "ID": "lka6ylyva6ee6qxqwi7",
       "Name": "Captain Maya Williams piloted the ``Voyager`` carrying the remnants of humanity towards a distant exoplanet capable of sustaining life. Inside the *ship's* cryogenic pods, the last survivors slept, unaware of their perilous journey through the cosmos.",
       "Linked": {
@@ -5676,56 +5648,28 @@
       "Parent": "lka6d24vixgvvdy6i1e"
     },
     {
-      "ID": "lka7c0sgnjmdg9zogd",
+      "ID": "lkab3bjafr64sn3se3f",
       "Name": "",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lka7c0sgvjljqr24s0q"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lka7bqx62kqhmuh0unj"
-    },
-    {
-      "ID": "lka7c0sgvjljqr24s0q",
-      "Name": "treehouse.TextField",
-      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lka7c0sgnjmdg9zogd"
-    },
-    {
-      "ID": "lka7c0sgdwut82mzyu",
-      "Name": "",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lka7c0sgsr3pv75l10k"
-        ]
+      "Attrs": {
+        "refTo": "lj4hof3uuv6l58hjs88"
       },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lka7bqx62kqhmuh0unj"
+      "Parent": "@tmp"
     },
     {
-      "ID": "lka7c0sgsr3pv75l10k",
-      "Name": "treehouse.TextField",
-      "Value": {},
+      "ID": "lkab3bjbuq9y2h37py",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lka7c0sgdwut82mzyu"
+      "Attrs": {
+        "refTo": "ljq09iu789lxyc0npao"
+      },
+      "Parent": "@tmp"
     }
   ],
   "settings": {
