@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lhgpjk0igshzz075pa5",
+  "lastopen": "lhs0lj299konwvjcjz5",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -284,7 +284,7 @@
         "Fields": []
       },
       "Attrs": {
-        "view": "table"
+        "view": "list"
       },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
