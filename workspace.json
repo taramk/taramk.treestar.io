@@ -65,7 +65,7 @@
       "lidmz5ad8ocxbecoidh": false,
       "lidmz6hiivjbicb58na": true,
       "lic14pvqdcpd3waxk6h": false,
-      "lic2hvzrf0i7xgsbp1o": false,
+      "lic2hvzrf0i7xgsbp1o": true,
       "lhgprwnm7e0bxentrrn": false,
       "lhgq29i8yeojytlis8": false,
       "lhgq4ex8uhuu9pf036h": false,
@@ -5515,7 +5515,7 @@
       "ID": "lka3hcbc0qprlt5zdysl",
       "Name": "treehouse.SmartNode",
       "Value": {
-        "query": "land: Fantasyland"
+        "query": "Land: Fantasyland"
       },
       "Linked": {
         "Children": [],
