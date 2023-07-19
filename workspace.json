@@ -5546,7 +5546,7 @@
         "Children": [
           "lka6ekwydg1q4rwzi2g",
           "lka6mzi118dr7tzojqd",
-          "lka6es4k939o7gfx64q",
+          "lka6ylyva6ee6qxqwi7",
           "lka6evrxnn0d6qhp1r",
           "lka6ez4tc8heznxg86q",
           "lka6faza4egxwv646hn"
@@ -5563,16 +5563,6 @@
     {
       "ID": "lka6ekwydg1q4rwzi2g",
       "Name": "In the year 2175, Earth was on the brink of destruction. Climate catastrophes ravaged the planet, rendering it uninhabitable. Humanity's last hope lay with the Voyager, a state-of-the-art interstellar spacecraft.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lka6d24vixgvvdy6i1e"
-    },
-    {
-      "ID": "lka6es4k939o7gfx64q",
-      "Name": "> Captain Maya Williams piloted the Voyager, carrying the remnants of humanity towards a distant exoplanet capable of sustaining life. Inside the *ship's* cryogenic pods, the last survivors slept, unaware of their perilous journey through the cosmos.",
       "Linked": {
         "Children": [],
         "Components": []
@@ -5655,6 +5645,16 @@
         "refTo": "ljq09iu789lxyc0npao"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lka6ylyva6ee6qxqwi7",
+      "Name": "* Captain Maya Williams piloted the Voyager, carrying the remnants of humanity towards a distant exoplanet capable of sustaining life. Inside the *ship's* cryogenic pods, the last survivors slept, unaware of their perilous journey through the cosmos.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka6d24vixgvvdy6i1e"
     }
   ],
   "settings": {
