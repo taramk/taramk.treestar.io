@@ -101,7 +101,8 @@
       "lic14q2xcjli20wh0z": false,
       "lic14oxvlwsqj1wvhw": false,
       "lic14oj3szgoyxnptsr": false,
-      "lj4hgki2u8klbt5fthk": false
+      "lj4hgki2u8klbt5fthk": false,
+      "lka3h3ebym8fnm6a36l": true
     },
     "lhgpjk0igshzz075pa5": {
       "lhqu4v8ih84ivjdwvz9": false,
@@ -5503,10 +5504,26 @@
       "Name": "land: Fantasyland",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lka3hcbc0qprlt5zdysl"
+        ]
       },
       "Attrs": {},
       "Parent": "lhgpj9lhufzcr161fvh"
+    },
+    {
+      "ID": "lka3hcbc0qprlt5zdysl",
+      "Name": "treehouse.SmartNode",
+      "Value": {
+        "query": ""
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka3h3ebym8fnm6a36l",
+      "Rel": "Components"
     }
   ],
   "settings": {
