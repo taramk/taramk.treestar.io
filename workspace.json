@@ -5552,6 +5552,7 @@
       "Linked": {
         "Children": [
           "lka6ekwydg1q4rwzi2g",
+          "lkabh0o9sigjpq1hlu",
           "lka6ylyva6ee6qxqwi7",
           "lka6evrxnn0d6qhp1r",
           "lka6ez4tc8heznxg86q",
@@ -5568,7 +5569,7 @@
     },
     {
       "ID": "lka6ekwydg1q4rwzi2g",
-      "Name": "In the year 2175, Earth was on the brink of destruction. Climate catastrophes ravaged the planet, rendering it uninhabitable. Humanity's last hope lay with the *Voyager*, a state-of-the-art interstellar spacecraft.",
+      "Name": "**In the year 2175...**",
       "Linked": {
         "Children": [],
         "Components": []
@@ -5651,6 +5652,16 @@
         "refTo": "ljq09iu789lxyc0npao"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lkabh0o9sigjpq1hlu",
+      "Name": "Earth was on the brink of destruction. Climate catastrophes ravaged the planet, rendering it uninhabitable. Humanity's last hope lay with the *Voyager*, a state-of-the-art interstellar spacecraft.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka6d24vixgvvdy6i1e"
     }
   ],
   "settings": {
