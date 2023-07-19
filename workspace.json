@@ -5678,8 +5678,7 @@
       "Linked": {
         "Children": [],
         "Components": [
-          "lka7bxgtqdbh7ekx4ji",
-          "lka7c0s8d3bxa2scisr"
+          "lka7bxgtqdbh7ekx4ji"
         ],
         "Fields": [
           "lka7c0sgnjmdg9zogd",
@@ -5694,20 +5693,6 @@
       "Name": "treehouse.SmartNode",
       "Value": {
         "query": "#book"
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lka7bqx62kqhmuh0unj",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lka7c0s8d3bxa2scisr",
-      "Name": "treehouse.Tag",
-      "Value": {
-        "name": "book"
       },
       "Linked": {
         "Children": [],
