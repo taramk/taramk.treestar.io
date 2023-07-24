@@ -5845,6 +5845,8 @@
           "lkh6nwf8dbz5wvi6eqd",
           "lkh6ogd74ccdl2afgi3",
           "lkh6oqb54b393rxljc3",
+          "lkh6p0huihqu2law3s",
+          "lkh6p78lkphzhs1gbqh",
           "lkh6mvg90tnsv7vkjeo",
           "lkh6mvmxb87gdvb5b5",
           "lkh6mvrj6akplrf6hmi",
@@ -6309,7 +6311,27 @@
     },
     {
       "ID": "lkh6oqb54b393rxljc3",
-      "Name": "",
+      "Name": "Geek Love - Katherine Dunn",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6p0huihqu2law3s",
+      "Name": "Collected Stories - Amy Hempel",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6p78lkphzhs1gbqh",
+      "Name": "Slouching Towards Bethlehem - Joan Didion",
       "Linked": {
         "Children": [],
         "Components": []
