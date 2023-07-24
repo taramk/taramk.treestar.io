@@ -161,7 +161,8 @@
       "ljq43fngq9diwb0jte": false,
       "ljq44xjht9c4wxswgk": false,
       "ljq43avlz6gmo625bb8": false,
-      "lkh6bgz42vuat4ucz96": true
+      "lkh6bgz42vuat4ucz96": true,
+      "lkh6eaob091lz2p23wx4": true
     },
     "lj4hof3uuv6l58hjs88": {
       "lj4hof3uuv6l58hjs88": false
@@ -5814,11 +5815,23 @@
       "ID": "lkh6eaob091lz2p23wx4",
       "Name": "Chuck Palahniuk's Recs",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkh6ftihjanti6ld22"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lkh6bgz42vuat4ucz96"
+    },
+    {
+      "ID": "lkh6ftihjanti6ld22",
+      "Name": "Death in Yellowstone - Lee H. Whittlesey",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
     }
   ],
   "settings": {
