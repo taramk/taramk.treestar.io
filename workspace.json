@@ -5830,7 +5830,8 @@
           "lkh6iy22r9o94ocnf9a",
           "lkh6j21pstezc1psjhg",
           "lkh6j8uic0x9i1vd5eq",
-          "lkh6jh42sxpxj80b7sh"
+          "lkh6jh42sxpxj80b7sh",
+          "lkh6jtxr0i5w2z6kmzn5"
         ],
         "Components": []
       },
@@ -5979,7 +5980,17 @@
     },
     {
       "ID": "lkh6jh42sxpxj80b7sh",
-      "Name": "",
+      "Name": "Campfires of the Dead - Peter Christopher",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6jtxr0i5w2z6kmzn5",
+      "Name": "Complete Novels - John Cheever",
       "Linked": {
         "Children": [],
         "Components": []
