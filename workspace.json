@@ -5822,7 +5822,8 @@
           "lkh6gwjqqgnsaterv5d",
           "lkh6h5n1ksgwbap1qbj",
           "lkh6hat1cv9akpquwj",
-          "lkh6hjjmed7ms4ira86"
+          "lkh6hjjmed7ms4ira86",
+          "lkh6hplic5f47tf8c6"
         ],
         "Components": []
       },
@@ -5891,7 +5892,17 @@
     },
     {
       "ID": "lkh6hjjmed7ms4ira86",
-      "Name": "",
+      "Name": "Kill You Twice - Chelsea Cain",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6hplic5f47tf8c6",
+      "Name": "The Stud Book - Monica Drake",
       "Linked": {
         "Children": [],
         "Components": []
