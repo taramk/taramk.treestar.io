@@ -5816,7 +5816,10 @@
       "Name": "Chuck Palahniuk's Recs",
       "Linked": {
         "Children": [
-          "lkh6ftihjanti6ld22"
+          "lkh6ftihjanti6ld22",
+          "lkh6gdqqjoxn8k6c277",
+          "lkh6gpp0jp24t61aic",
+          "lkh6gwjqqgnsaterv5d"
         ],
         "Components": []
       },
@@ -5826,6 +5829,36 @@
     {
       "ID": "lkh6ftihjanti6ld22",
       "Name": "Death in Yellowstone - Lee H. Whittlesey",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6gdqqjoxn8k6c277",
+      "Name": "The Folly of Loving Life - Monica Drake",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6gpp0jp24t61aic",
+      "Name": "The Night in Question - Tobias Wolff",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6gwjqqgnsaterv5d",
+      "Name": "Through the Safety Net - Charles Baxter",
       "Linked": {
         "Children": [],
         "Components": []
