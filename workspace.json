@@ -5837,7 +5837,8 @@
           "lkh6kt1l2duh4t05pro",
           "lkh6l37dlao7l0adzam",
           "lkh6llwlkz00i66ulc",
-          "lkh6ls1l1xvqcwksxi3"
+          "lkh6ls1l1xvqcwksxi3",
+          "lkh6m0k07l1ka1ujg29"
         ],
         "Components": []
       },
@@ -6057,6 +6058,16 @@
     {
       "ID": "lkh6ls1l1xvqcwksxi3",
       "Name": "The Lottery and Other Stories - Shirley Jackson",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6m0k07l1ka1ujg29",
+      "Name": "The Killing of Sister George",
       "Linked": {
         "Children": [],
         "Components": []
