@@ -5843,6 +5843,8 @@
           "lkh6n5poob48fbidn0t",
           "lkh6noj348c587w214h",
           "lkh6nwf8dbz5wvi6eqd",
+          "lkh6ogd74ccdl2afgi3",
+          "lkh6oqb54b393rxljc3",
           "lkh6mvg90tnsv7vkjeo",
           "lkh6mvmxb87gdvb5b5",
           "lkh6mvrj6akplrf6hmi",
@@ -6287,6 +6289,26 @@
     },
     {
       "ID": "lkh6nwf8dbz5wvi6eqd",
+      "Name": "Slackjaw - Jim Knipfel",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6ogd74ccdl2afgi3",
+      "Name": "Girl with Curious Hair - David Foster Wallace",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6oqb54b393rxljc3",
       "Name": "",
       "Linked": {
         "Children": [],
