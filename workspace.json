@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lka6d24vixgvvdy6i1e",
+  "lastopen": "ljizxw1c254ivodpxua",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -166,17 +166,16 @@
       "lj4hof3uuv6l58hjs88": false
     },
     "ljizxw1c254ivodpxua": {
-      "ljq3jsyfig6n49wyhc": true
+      "ljq3jsyfig6n49wyhc": true,
+      "ljizxw1c254ivodpxua": true
     },
     "ljq3wkbxolip292u46": {
       "ljq3wkbxolip292u46": false
     },
     "lka6d24vixgvvdy6i1e": {
       "lka6ylyva6ee6qxqwi7": false,
-      "lka6mzi118dr7tzojqd": false,
       "lka6ekwydg1q4rwzi2g": false
-    },
-    "lka6d0bxqm5d77irupo": {}
+    }
   },
   "nodes": [
     {
@@ -4935,7 +4934,8 @@
       "Name": "Templates",
       "Linked": {
         "Children": [
-          "ljq3jsyfig6n49wyhc"
+          "ljq3jsyfig6n49wyhc",
+          "lkh69l7sjuzrnssgvt"
         ],
         "Components": []
       },
@@ -5630,7 +5630,17 @@
       "Parent": "lka6d24vixgvvdy6i1e"
     },
     {
-      "ID": "lkab3bjafr64sn3se3f",
+      "ID": "lkabh0o9sigjpq1hlu",
+      "Name": "Earth was on the brink of destruction. Climate catastrophes ravaged the planet, rendering it uninhabitable. Humanity's last hope lay with the *Voyager*, a state-of-the-art interstellar spacecraft.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lka6d24vixgvvdy6i1e"
+    },
+    {
+      "ID": "lkh69h5uyie9b6idl3a",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -5642,7 +5652,7 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lkab3bjbuq9y2h37py",
+      "ID": "lkh69h5wykcx8hpzzge",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -5654,14 +5664,14 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lkabh0o9sigjpq1hlu",
-      "Name": "Earth was on the brink of destruction. Climate catastrophes ravaged the planet, rendering it uninhabitable. Humanity's last hope lay with the *Voyager*, a state-of-the-art interstellar spacecraft.",
+      "ID": "lkh69l7sjuzrnssgvt",
+      "Name": "to-read-book",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lka6d24vixgvvdy6i1e"
+      "Parent": "ljizxw1c254ivodpxua"
     }
   ],
   "settings": {
