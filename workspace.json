@@ -5835,7 +5835,9 @@
           "lkh6k1knii1tp1pfub",
           "lkh6kolwn8do6460th",
           "lkh6kt1l2duh4t05pro",
-          "lkh6l37dlao7l0adzam"
+          "lkh6l37dlao7l0adzam",
+          "lkh6llwlkz00i66ulc",
+          "lkh6ls1l1xvqcwksxi3"
         ],
         "Components": []
       },
@@ -6035,6 +6037,26 @@
     {
       "ID": "lkh6l37dlao7l0adzam",
       "Name": "The Effect of Gamma Rays on man-in-the-moon Marigolds - Paul Zindel",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6llwlkz00i66ulc",
+      "Name": "The Safety of Objects - A.M. Homes",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6ls1l1xvqcwksxi3",
+      "Name": "The Lottery and Other Stories - Shirley Jackson",
       "Linked": {
         "Children": [],
         "Components": []
