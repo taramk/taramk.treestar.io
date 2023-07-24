@@ -5832,7 +5832,10 @@
           "lkh6j8uic0x9i1vd5eq",
           "lkh6jh42sxpxj80b7sh",
           "lkh6jtxr0i5w2z6kmzn5",
-          "lkh6k1knii1tp1pfub"
+          "lkh6k1knii1tp1pfub",
+          "lkh6kolwn8do6460th",
+          "lkh6kt1l2duh4t05pro",
+          "lkh6l37dlao7l0adzam"
         ],
         "Components": []
       },
@@ -6002,6 +6005,36 @@
     {
       "ID": "lkh6k1knii1tp1pfub",
       "Name": "The Day of the Locust - Nathanael West",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6kolwn8do6460th",
+      "Name": "The Informers - Bret Easton Ellis",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6kt1l2duh4t05pro",
+      "Name": "In the Garden of the North American Martyrs - Tobias Wolff",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6l37dlao7l0adzam",
+      "Name": "The Effect of Gamma Rays on man-in-the-moon Marigolds - Paul Zindel",
       "Linked": {
         "Children": [],
         "Components": []
