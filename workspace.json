@@ -5819,7 +5819,10 @@
           "lkh6ftihjanti6ld22",
           "lkh6gdqqjoxn8k6c277",
           "lkh6gpp0jp24t61aic",
-          "lkh6gwjqqgnsaterv5d"
+          "lkh6gwjqqgnsaterv5d",
+          "lkh6h5n1ksgwbap1qbj",
+          "lkh6hat1cv9akpquwj",
+          "lkh6hjjmed7ms4ira86"
         ],
         "Components": []
       },
@@ -5859,6 +5862,36 @@
     {
       "ID": "lkh6gwjqqgnsaterv5d",
       "Name": "Through the Safety Net - Charles Baxter",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6h5n1ksgwbap1qbj",
+      "Name": "Ill Nature - Joy Williams",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6hat1cv9akpquwj",
+      "Name": "Dora: A Headcase - Lidia Yuknavitch",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6eaob091lz2p23wx4"
+    },
+    {
+      "ID": "lkh6hjjmed7ms4ira86",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
