@@ -5888,7 +5888,9 @@
       "Name": "The Folly of Loving Life - Monica Drake",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkityi0ijmkm89l1pci"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6563,6 +6565,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6ftihjanti6ld22",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkityi0ijmkm89l1pci",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6gdqqjoxn8k6c277",
       "Rel": "Components"
     }
   ],
