@@ -6348,7 +6348,9 @@
       "Name": "Girl with Curious Hair - David Foster Wallace",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiv081diyi73mckj5m"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6953,6 +6955,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6nwf8dbz5wvi6eqd",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiv081diyi73mckj5m",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "maybelater"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6ogd74ccdl2afgi3",
       "Rel": "Components"
     }
   ],
