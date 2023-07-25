@@ -6104,7 +6104,9 @@
       "Name": "The Effect of Gamma Rays on man-in-the-moon Marigolds - Paul Zindel",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiur4q728511w7udjt"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6851,6 +6853,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6kt1l2duh4t05pro",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiur4q728511w7udjt",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6l37dlao7l0adzam",
       "Rel": "Components"
     }
   ],
