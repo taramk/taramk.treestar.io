@@ -6360,7 +6360,9 @@
       "Name": "Geek Love - Katherine Dunn",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiv1e674kinx8w54ch"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6969,6 +6971,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6ogd74ccdl2afgi3",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiv1e674kinx8w54ch",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "no"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6oqb54b393rxljc3",
       "Rel": "Components"
     }
   ],
