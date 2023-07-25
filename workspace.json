@@ -5876,7 +5876,9 @@
       "Name": "Death in Yellowstone - Lee H. Whittlesey",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkitxnghdrlfy6ucprj"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6547,6 +6549,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6drqzqsv3a375lhr",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkitxnghdrlfy6ucprj",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6ftihjanti6ld22",
       "Rel": "Components"
     }
   ],
