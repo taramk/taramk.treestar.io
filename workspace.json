@@ -5722,7 +5722,9 @@
       "Name": "Contortionist's Handbook - Craig Clevenger",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkitoktbbwuz7fw0jal"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6bgz42vuat4ucz96"
@@ -6420,6 +6422,20 @@
         "refTo": "ljq09iu789lxyc0npao"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lkitoktbbwuz7fw0jal",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6bjup7472rvsrazf",
+      "Rel": "Components"
     }
   ],
   "settings": {
