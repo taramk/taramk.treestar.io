@@ -6300,7 +6300,9 @@
       "Name": "The Pugilist at Rest - Thom Jones",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiutnbn65fzglbhjca"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6889,6 +6891,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6ls1l1xvqcwksxi3",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiutnbn65fzglbhjca",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "no"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6myqv106csczjpj3g",
       "Rel": "Components"
     }
   ],
