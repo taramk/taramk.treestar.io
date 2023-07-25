@@ -6056,7 +6056,9 @@
       "Name": "The Stories of John Cheever - John Cheever",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkium2cs1kuyu57zgfn"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6787,6 +6789,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6jh42sxpxj80b7sh",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkium2cs1kuyu57zgfn",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "gotphysicalbook"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6jtxr0i5w2z6kmzn5",
       "Rel": "Components"
     }
   ],
