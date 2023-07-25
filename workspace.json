@@ -5960,7 +5960,9 @@
       "Name": "The Stud Book - Monica Drake",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiua6bw7jfgy5kpk9h"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6659,6 +6661,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6hjjmed7ms4ira86",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiua6bw7jfgy5kpk9h",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6hplic5f47tf8c6",
       "Rel": "Components"
     }
   ],
