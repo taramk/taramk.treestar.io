@@ -6336,7 +6336,9 @@
       "Name": "Slackjaw - Jim Knipfel",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiuychpujfzp3ff3uk"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6937,6 +6939,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6noj348c587w214h",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiuychpujfzp3ff3uk",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6nwf8dbz5wvi6eqd",
       "Rel": "Components"
     }
   ],
