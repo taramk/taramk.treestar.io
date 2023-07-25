@@ -6372,7 +6372,9 @@
       "Name": "Collected Stories - Amy Hempel",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiv1x96owoxhimfrl9"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6985,6 +6987,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6oqb54b393rxljc3",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiv1x96owoxhimfrl9",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6p0huihqu2law3s",
       "Rel": "Components"
     }
   ],
