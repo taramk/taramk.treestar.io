@@ -6092,7 +6092,9 @@
       "Name": "In the Garden of the North American Martyrs - Tobias Wolff",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiuq66z7d2gwbr6ips"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6835,6 +6837,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6kolwn8do6460th",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiuq66z7d2gwbr6ips",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6kt1l2duh4t05pro",
       "Rel": "Components"
     }
   ],
