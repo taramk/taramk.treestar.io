@@ -6384,7 +6384,9 @@
       "Name": "Slouching Towards Bethlehem - Joan Didion",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiv2o1nzu5e851plb"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -7001,6 +7003,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6p0huihqu2law3s",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiv2o1nzu5e851plb",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6p78lkphzhs1gbqh",
       "Rel": "Components"
     }
   ],
