@@ -5746,7 +5746,9 @@
       "Name": "The Artist's Way - Julia Cameron",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkitrs1jsszvr9x8mxe"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6bgz42vuat4ucz96"
@@ -6451,6 +6453,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6cafr6kpn1v3i50k",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkitrs1jsszvr9x8mxe",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6cjrmbyc88fc3uxo",
       "Rel": "Components"
     }
   ],
