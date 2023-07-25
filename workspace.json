@@ -6128,7 +6128,9 @@
       "Name": "The Lottery and Other Stories - Shirley Jackson",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkius8lz89gzzcq0voc"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6883,6 +6885,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6llwlkz00i66ulc",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkius8lz89gzzcq0voc",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6ls1l1xvqcwksxi3",
       "Rel": "Components"
     }
   ],
