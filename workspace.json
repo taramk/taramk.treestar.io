@@ -6324,7 +6324,9 @@
       "Name": "Cathedral - Raymond Carver",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiuxhzoueuy9q24i1"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6921,6 +6923,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6n5poob48fbidn0t",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiuxhzoueuy9q24i1",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6noj348c587w214h",
       "Rel": "Components"
     }
   ],
