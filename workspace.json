@@ -6041,10 +6041,12 @@
     },
     {
       "ID": "lkh6jh42sxpxj80b7sh",
-      "Name": "Campfires of the Dead - Peter Christopher",
+      "Name": "Campfires of the Dead and the Living - Peter Christopher",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkiui4439sgl7hep77a"
+        ]
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
@@ -6771,6 +6773,20 @@
       },
       "Attrs": {},
       "Parent": "lkh6j8uic0x9i1vd5eq",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiui4439sgl7hep77a",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "yes"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkh6jh42sxpxj80b7sh",
       "Rel": "Components"
     }
   ],
