@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lhs0lx2fy9fhqqcpbl9",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -18,7 +18,7 @@
       "lhjos3uyag1mzyt477": false,
       "lhqugck2ppqhg5lia7": false,
       "lhs0lj299konwvjcjz5": false,
-      "lhs0lx2fy9fhqqcpbl9": true,
+      "lhs0lx2fy9fhqqcpbl9": false,
       "lhs0m96r961vkb9687u": false,
       "lhs0md9mrhm6lzh8jzh": false,
       "liezgk55jw0poli0vie": true,
@@ -29,11 +29,12 @@
       "lka6d0bxqm5d77irupo": false,
       "lka6d24vixgvvdy6i1e": true,
       "@workspace": true,
-      "lkijaf0a1s3gd0tke75": true,
+      "lkijaf0a1s3gd0tke75": false,
       "lkh6bgz42vuat4ucz96": true,
       "lkh6eaob091lz2p23wx4": true,
       "lkh6ls1l1xvqcwksxi3": false,
-      "lkh6mvg90tnsv7vkjeo": true
+      "lkh6mvg90tnsv7vkjeo": true,
+      "lkij03pxidg2fs6h7us": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -167,7 +168,7 @@
       "ljq43fngq9diwb0jte": false,
       "ljq44xjht9c4wxswgk": false,
       "ljq43avlz6gmo625bb8": false,
-      "lkh6bgz42vuat4ucz96": true,
+      "lkh6bgz42vuat4ucz96": false,
       "lkh6eaob091lz2p23wx4": true,
       "lkh6mvg90tnsv7vkjeo": true
     },
@@ -210,13 +211,7 @@
           "lhs0md9mrhm6lzh8jzh",
           "lhs0lx2fy9fhqqcpbl9",
           "ljizxw1c254ivodpxua",
-          "lka6d0bxqm5d77irupo",
-          "lkij02rvrar2hvnyml",
-          "lkij03pxidg2fs6h7us",
-          "lkij0j55ngehfhw7js",
-          "lkij0qo16sp0nuwihaa",
-          "lkijaf0a1s3gd0tke75",
-          "lkijaeknx8xh2i9rmf"
+          "lka6d0bxqm5d77irupo"
         ],
         "Components": []
       },
@@ -6395,78 +6390,6 @@
       },
       "Attrs": {},
       "Parent": "lkh6eaob091lz2p23wx4"
-    },
-    {
-      "ID": "lkij02rvrar2hvnyml",
-      "Name": "Documents",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lkij03pxidg2fs6h7us",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lkij0j55ngehfhw7js",
-      "Name": "Documents",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lkij0qo16sp0nuwihaa",
-      "Name": "Home",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lkijaeknx8xh2i9rmf",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lkijaf0a1s3gd0tke75",
-      "Name": "Home",
-      "Linked": {
-        "Children": [
-          "lkijaf0anpe8p65wpia"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lkijaf0anpe8p65wpia",
-      "Name": "...",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkijaf0a1s3gd0tke75"
     },
     {
       "ID": "lkitoktbbwuz7fw0jal",
