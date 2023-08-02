@@ -7229,16 +7229,6 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lktz1i30a0l7yixhmkc",
-      "Name": "hello",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lktz1jz8bytweteqr0j"
-    },
-    {
       "ID": "lktz1jz8ew4m1vkuypm",
       "Name": "Week 31",
       "Linked": {
@@ -7255,7 +7245,6 @@
       "Name": "Wed, 02 Aug ",
       "Linked": {
         "Children": [
-          "lktz1i30a0l7yixhmkc",
           "lku073o1p0mid1q8krs"
         ],
         "Components": []
