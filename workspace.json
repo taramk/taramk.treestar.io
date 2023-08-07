@@ -5568,7 +5568,6 @@
           "lka6ylyva6ee6qxqwi7",
           "lka6evrxnn0d6qhp1r",
           "lka6ez4tc8heznxg86q",
-          "ll14s5c3a92unijj5lr",
           "lka6faza4egxwv646hn"
         ],
         "Components": [
@@ -5602,7 +5601,7 @@
     },
     {
       "ID": "lka6ez4tc8heznxg86q",
-      "Name": "Finally",
+      "Name": "Finally, after a grueling voyage, the *Voyager* arrived at its destination—a lush, green expanse shimmering with hope. But Captain Williams would never witness the new world. Her years in space had aged her beyond return, and she chose to remain at the helm as her crew and passengers ventured onto the unexplored planet.",
       "Linked": {
         "Children": [],
         "Components": []
@@ -7368,16 +7367,6 @@
         "refTo": "lkh6p78lkphzhs1gbqh"
       },
       "Parent": "@tmp"
-    },
-    {
-      "ID": "ll14s5c3a92unijj5lr",
-      "Name": "[ ], after a grueling voyage, the *Voyager* arrived at its destination—a lush, green expanse shimmering with hope. But Captain Williams would never witness the new world. Her years in space had aged her beyond return, and she chose to remain at the helm as her crew and passengers ventured onto the unexplored planet.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lka6d24vixgvvdy6i1e"
     }
   ],
   "settings": {
