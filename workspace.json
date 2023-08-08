@@ -212,8 +212,7 @@
           "lhs0md9mrhm6lzh8jzh",
           "lhs0lx2fy9fhqqcpbl9",
           "ljizxw1c254ivodpxua",
-          "lka6d0bxqm5d77irupo",
-          "ll2rgztpizqlf2ygeiq"
+          "lka6d0bxqm5d77irupo"
         ],
         "Components": []
       },
@@ -7370,16 +7369,6 @@
         "refTo": "lkh6p78lkphzhs1gbqh"
       },
       "Parent": "@tmp"
-    },
-    {
-      "ID": "ll2rgztpizqlf2ygeiq",
-      "Name": "empla",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
     }
   ],
   "settings": {
