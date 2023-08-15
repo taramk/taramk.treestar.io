@@ -33,7 +33,8 @@
       "lkh6eaob091lz2p23wx4": true,
       "lkh6ls1l1xvqcwksxi3": false,
       "lkh6mvg90tnsv7vkjeo": true,
-      "lidmz5ad8ocxbecoidh": true
+      "lidmz5ad8ocxbecoidh": true,
+      "llcs4a3igl9l1zmgrhe": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -212,7 +213,8 @@
           "lhs0md9mrhm6lzh8jzh",
           "lhs0lx2fy9fhqqcpbl9",
           "ljizxw1c254ivodpxua",
-          "lka6d0bxqm5d77irupo"
+          "lka6d0bxqm5d77irupo",
+          "llcs4a3igl9l1zmgrhe"
         ],
         "Components": []
       },
@@ -7369,6 +7371,39 @@
         "refTo": "lkh6p78lkphzhs1gbqh"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "llcs4a3igl9l1zmgrhe",
+      "Name": "test",
+      "Linked": {
+        "Children": [
+          "llcs4bnx9ucgt44n32i",
+          "llcs4cxulddkqkul8le"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "llcs4bnx9ucgt44n32i",
+      "Name": "child test",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llcs4a3igl9l1zmgrhe"
+    },
+    {
+      "ID": "llcs4cxulddkqkul8le",
+      "Name": "child 2 test",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llcs4a3igl9l1zmgrhe"
     }
   ],
   "settings": {
