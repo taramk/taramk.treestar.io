@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@workspace",
+  "lastopen": "llfg9rpzsfrynjryhb",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -34,8 +34,12 @@
       "lkh6ls1l1xvqcwksxi3": false,
       "lkh6mvg90tnsv7vkjeo": true,
       "lidmz5ad8ocxbecoidh": true,
-      "llfg9hslbr39hdkf9b5": true,
-      "llfg9rpzsfrynjryhb": true
+      "llfg9hslbr39hdkf9b5": false,
+      "llfg9rpzsfrynjryhb": true,
+      "llfgcdsqskpemq94xv": true,
+      "llfga2wr8g7yc1wpm4f": false,
+      "llfga4xv9j0272wf3tq": false,
+      "llfgaxnaf1xpyat5f5": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -195,6 +199,10 @@
       "llfg9rpzsfrynjryhb": true,
       "llfga2wr8g7yc1wpm4f": true,
       "llfgafg6fijaj73n9j5": true
+    },
+    "llfg9rpzsfrynjryhb": {
+      "llfgcdsqskpemq94xv": true,
+      "llfgafg6fijaj73n9j5": true
     }
   },
   "nodes": [
@@ -221,8 +229,7 @@
           "lhs0lx2fy9fhqqcpbl9",
           "ljizxw1c254ivodpxua",
           "lka6d0bxqm5d77irupo",
-          "llfg9rpzsfrynjryhb",
-          "llfg9hslbr39hdkf9b5"
+          "llfg9rpzsfrynjryhb"
         ],
         "Components": []
       },
@@ -7381,22 +7388,11 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "llfg9hslbr39hdkf9b5",
+      "ID": "llfg9rpzsfrynjryhb",
       "Name": "Meal Planning",
       "Linked": {
         "Children": [
-          "llfga2wr8g7yc1wpm4f"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "llfg9rpzsfrynjryhb",
-      "Name": "",
-      "Linked": {
-        "Children": [
+          "llfgcdsqskpemq94xv",
           "llfgafg6fijaj73n9j5",
           "llfgap9qgs44gxmyxvd",
           "llfgasoqaqld0h69um8",
@@ -7409,39 +7405,6 @@
       },
       "Attrs": {},
       "Parent": "@workspace"
-    },
-    {
-      "ID": "llfga2wr8g7yc1wpm4f",
-      "Name": "Thurs",
-      "Linked": {
-        "Children": [
-          "llfga4xv9j0272wf3tq",
-          "llfgaboy2i10ei674fv"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfg9hslbr39hdkf9b5"
-    },
-    {
-      "ID": "llfga4xv9j0272wf3tq",
-      "Name": "L: sandwiches",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfga2wr8g7yc1wpm4f"
-    },
-    {
-      "ID": "llfgaboy2i10ei674fv",
-      "Name": "D: chicken leftovers",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfga2wr8g7yc1wpm4f"
     },
     {
       "ID": "llfgafg6fijaj73n9j5",
@@ -7535,6 +7498,39 @@
       },
       "Attrs": {},
       "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgcdsqskpemq94xv",
+      "Name": "Thurs",
+      "Linked": {
+        "Children": [
+          "llfgcfl7f8s2l221oum",
+          "llfgchx8aads54kng3h"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgcfl7f8s2l221oum",
+      "Name": "L: sandwiches",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfgcdsqskpemq94xv"
+    },
+    {
+      "ID": "llfgchx8aads54kng3h",
+      "Name": "D: chx leftovers",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfgcdsqskpemq94xv"
     }
   ],
   "settings": {
