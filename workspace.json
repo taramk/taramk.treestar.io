@@ -192,7 +192,8 @@
     "llfg9hslbr39hdkf9b5": {
       "llfg9hslbr39hdkf9b5": true,
       "llfg9rpzsfrynjryhb": true,
-      "llfga2wr8g7yc1wpm4f": true
+      "llfga2wr8g7yc1wpm4f": true,
+      "llfgafg6fijaj73n9j5": true
     }
   },
   "nodes": [
@@ -7394,7 +7395,14 @@
       "Name": "17th - 23rd",
       "Linked": {
         "Children": [
-          "llfga2wr8g7yc1wpm4f"
+          "llfga2wr8g7yc1wpm4f",
+          "llfgafg6fijaj73n9j5",
+          "llfgap9qgs44gxmyxvd",
+          "llfgasoqaqld0h69um8",
+          "llfgatr92iwtdbhie3",
+          "llfgaukmm6g565s5p4s",
+          "llfgavqbk7zmefb1rx",
+          "llfgaxnaf1xpyat5f5"
         ],
         "Components": []
       },
@@ -7406,7 +7414,8 @@
       "Name": "Thurs",
       "Linked": {
         "Children": [
-          "llfga4xv9j0272wf3tq"
+          "llfga4xv9j0272wf3tq",
+          "llfgaboy2i10ei674fv"
         ],
         "Components": []
       },
@@ -7415,13 +7424,116 @@
     },
     {
       "ID": "llfga4xv9j0272wf3tq",
-      "Name": "L",
+      "Name": "L: sandwiches",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "llfga2wr8g7yc1wpm4f"
+    },
+    {
+      "ID": "llfgaboy2i10ei674fv",
+      "Name": "D: chicken leftovers",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfga2wr8g7yc1wpm4f"
+    },
+    {
+      "ID": "llfgafg6fijaj73n9j5",
+      "Name": "Friday",
+      "Linked": {
+        "Children": [
+          "llfgai0kjz9aqqps5a",
+          "llfgakjpbjur7n2acvq"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgai0kjz9aqqps5a",
+      "Name": "L: sandwiches?",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfgafg6fijaj73n9j5"
+    },
+    {
+      "ID": "llfgakjpbjur7n2acvq",
+      "Name": "D: pizza and salad",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfgafg6fijaj73n9j5"
+    },
+    {
+      "ID": "llfgap9qgs44gxmyxvd",
+      "Name": "Saturday",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgasoqaqld0h69um8",
+      "Name": "Sunday",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgatr92iwtdbhie3",
+      "Name": "Monday",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgaukmm6g565s5p4s",
+      "Name": "Tuesday",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgavqbk7zmefb1rx",
+      "Name": "Wednesday",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgaxnaf1xpyat5f5",
+      "Name": "Thursday",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
     }
   ],
   "settings": {
