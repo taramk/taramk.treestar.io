@@ -209,7 +209,8 @@
       "llfgesnv2oxu7imrj1n": false,
       "llfgg1on60mrel6fk7b": true,
       "llfgchx8aads54kng3h": false,
-      "llfgp0gl0hyvht0ngil7": true
+      "llfgp0gl0hyvht0ngil7": true,
+      "llfgaukmm6g565s5p4s": false
     }
   },
   "nodes": [
@@ -7446,48 +7447,8 @@
       "Parent": "llfgafg6fijaj73n9j5"
     },
     {
-      "ID": "llfgap9qgs44gxmyxvd",
-      "Name": "Saturday",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfgp0gl0hyvht0ngil7"
-    },
-    {
-      "ID": "llfgasoqaqld0h69um8",
-      "Name": "Sunday",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfgp0gl0hyvht0ngil7"
-    },
-    {
-      "ID": "llfgatr92iwtdbhie3",
-      "Name": "Monday",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfgp0gl0hyvht0ngil7"
-    },
-    {
       "ID": "llfgaukmm6g565s5p4s",
       "Name": "Tuesday",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfgp0gl0hyvht0ngil7"
-    },
-    {
-      "ID": "llfgavqbk7zmefb1rx",
-      "Name": "Wednesday",
       "Linked": {
         "Children": [],
         "Components": []
@@ -7683,14 +7644,10 @@
     },
     {
       "ID": "llfgp0gl0hyvht0ngil7",
-      "Name": "Rest of week",
+      "Name": "Rest of week (Saturday - Wednesday)",
       "Linked": {
         "Children": [
-          "llfgap9qgs44gxmyxvd",
-          "llfgasoqaqld0h69um8",
-          "llfgatr92iwtdbhie3",
-          "llfgaukmm6g565s5p4s",
-          "llfgavqbk7zmefb1rx"
+          "llfgaukmm6g565s5p4s"
         ],
         "Components": []
       },
