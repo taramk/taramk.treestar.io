@@ -202,7 +202,8 @@
     },
     "llfg9rpzsfrynjryhb": {
       "llfgcdsqskpemq94xv": true,
-      "llfgafg6fijaj73n9j5": true
+      "llfgafg6fijaj73n9j5": true,
+      "llfgaxnaf1xpyat5f5": true
     }
   },
   "nodes": [
@@ -7494,7 +7495,9 @@
       "ID": "llfgaxnaf1xpyat5f5",
       "Name": "Thursday 24th - Sat 9th [ Tara solo party ]",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "llfgeggfj6yq92byj9d"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -7542,6 +7545,16 @@
       },
       "Attrs": {},
       "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgeggfj6yq92byj9d",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfgaxnaf1xpyat5f5"
     }
   ],
   "settings": {
