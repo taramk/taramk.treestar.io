@@ -7402,6 +7402,7 @@
           "llfgg1on60mrel6fk7b",
           "llfgcdsqskpemq94xv",
           "llfgafg6fijaj73n9j5",
+          "llfgp0gl0hyvht0ngil7",
           "llfggl9olfbv7296eb",
           "llfgaxnaf1xpyat5f5"
         ],
@@ -7417,7 +7418,6 @@
         "Children": [
           "llfgai0kjz9aqqps5a",
           "llfgakjpbjur7n2acvq",
-          "llfgp0gl0hyvht0ngil7",
           "llfgap9qgs44gxmyxvd",
           "llfgasoqaqld0h69um8",
           "llfgatr92iwtdbhie3",
@@ -7687,13 +7687,13 @@
     },
     {
       "ID": "llfgp0gl0hyvht0ngil7",
-      "Name": "",
+      "Name": "Rest of week",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfgafg6fijaj73n9j5"
+      "Parent": "llfg9rpzsfrynjryhb"
     }
   ],
   "settings": {
