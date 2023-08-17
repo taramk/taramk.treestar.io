@@ -208,7 +208,8 @@
       "llfgeggfj6yq92byj9d": false,
       "llfgesnv2oxu7imrj1n": false,
       "llfgg1on60mrel6fk7b": true,
-      "llfgchx8aads54kng3h": false
+      "llfgchx8aads54kng3h": false,
+      "llfgp0gl0hyvht0ngil7": true
     }
   },
   "nodes": [
@@ -7417,12 +7418,7 @@
       "Linked": {
         "Children": [
           "llfgai0kjz9aqqps5a",
-          "llfgakjpbjur7n2acvq",
-          "llfgasoqaqld0h69um8",
-          "llfgap9qgs44gxmyxvd",
-          "llfgatr92iwtdbhie3",
-          "llfgaukmm6g565s5p4s",
-          "llfgavqbk7zmefb1rx"
+          "llfgakjpbjur7n2acvq"
         ],
         "Components": []
       },
@@ -7457,7 +7453,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfgafg6fijaj73n9j5"
+      "Parent": "llfgp0gl0hyvht0ngil7"
     },
     {
       "ID": "llfgasoqaqld0h69um8",
@@ -7467,7 +7463,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfgafg6fijaj73n9j5"
+      "Parent": "llfgp0gl0hyvht0ngil7"
     },
     {
       "ID": "llfgatr92iwtdbhie3",
@@ -7477,7 +7473,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfgafg6fijaj73n9j5"
+      "Parent": "llfgp0gl0hyvht0ngil7"
     },
     {
       "ID": "llfgaukmm6g565s5p4s",
@@ -7487,7 +7483,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfgafg6fijaj73n9j5"
+      "Parent": "llfgp0gl0hyvht0ngil7"
     },
     {
       "ID": "llfgavqbk7zmefb1rx",
@@ -7497,7 +7493,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfgafg6fijaj73n9j5"
+      "Parent": "llfgp0gl0hyvht0ngil7"
     },
     {
       "ID": "llfgaxnaf1xpyat5f5",
@@ -7689,7 +7685,13 @@
       "ID": "llfgp0gl0hyvht0ngil7",
       "Name": "Rest of week",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "llfgap9qgs44gxmyxvd",
+          "llfgasoqaqld0h69um8",
+          "llfgatr92iwtdbhie3",
+          "llfgaukmm6g565s5p4s",
+          "llfgavqbk7zmefb1rx"
+        ],
         "Components": []
       },
       "Attrs": {},
