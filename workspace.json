@@ -203,7 +203,8 @@
     "llfg9rpzsfrynjryhb": {
       "llfgcdsqskpemq94xv": true,
       "llfgafg6fijaj73n9j5": true,
-      "llfgaxnaf1xpyat5f5": true
+      "llfgaxnaf1xpyat5f5": true,
+      "llfgeo56aodbztszgld": true
     }
   },
   "nodes": [
@@ -7393,6 +7394,7 @@
       "Name": "Meal Planning",
       "Linked": {
         "Children": [
+          "llfgeo56aodbztszgld",
           "llfgcdsqskpemq94xv",
           "llfgafg6fijaj73n9j5",
           "llfgap9qgs44gxmyxvd",
@@ -7555,6 +7557,28 @@
       },
       "Attrs": {},
       "Parent": "llfgaxnaf1xpyat5f5"
+    },
+    {
+      "ID": "llfgeo56aodbztszgld",
+      "Name": "Pantry meals",
+      "Linked": {
+        "Children": [
+          "llfgesnv2oxu7imrj1n"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgesnv2oxu7imrj1n",
+      "Name": "Indian pouches + rice (4 total meals)",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfgeo56aodbztszgld"
     }
   ],
   "settings": {
