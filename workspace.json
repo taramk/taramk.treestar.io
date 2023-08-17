@@ -34,7 +34,8 @@
       "lkh6ls1l1xvqcwksxi3": false,
       "lkh6mvg90tnsv7vkjeo": true,
       "lidmz5ad8ocxbecoidh": true,
-      "llfg9hslbr39hdkf9b5": true
+      "llfg9hslbr39hdkf9b5": true,
+      "llfg9rpzsfrynjryhb": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -220,7 +221,8 @@
           "lhs0lx2fy9fhqqcpbl9",
           "ljizxw1c254ivodpxua",
           "lka6d0bxqm5d77irupo",
-          "llfg9hslbr39hdkf9b5"
+          "llfg9hslbr39hdkf9b5",
+          "llfg9rpzsfrynjryhb"
         ],
         "Components": []
       },
@@ -7383,7 +7385,6 @@
       "Name": "Meal Planning",
       "Linked": {
         "Children": [
-          "llfg9rpzsfrynjryhb",
           "llfga2wr8g7yc1wpm4f"
         ],
         "Components": []
@@ -7407,7 +7408,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfg9hslbr39hdkf9b5"
+      "Parent": "@workspace"
     },
     {
       "ID": "llfga2wr8g7yc1wpm4f",
