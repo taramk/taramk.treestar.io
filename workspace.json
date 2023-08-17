@@ -7557,10 +7557,11 @@
     },
     {
       "ID": "llfgeo56aodbztszgld",
-      "Name": "Meal ideas",
+      "Name": "Pantry meal ideas",
       "Linked": {
         "Children": [
           "llfgesnv2oxu7imrj1n",
+          "llfgk6d4k960cwf0y1h",
           "llfgfvjcgtd814htnfg"
         ],
         "Components": []
@@ -7660,6 +7661,16 @@
       },
       "Attrs": {},
       "Parent": "llfg9rpzsfrynjryhb"
+    },
+    {
+      "ID": "llfgk6d4k960cwf0y1h",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfgeo56aodbztszgld"
     }
   ],
   "settings": {
