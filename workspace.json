@@ -113,7 +113,8 @@
       "lic14oxvlwsqj1wvhw": false,
       "lic14oj3szgoyxnptsr": false,
       "lka3h3ebym8fnm6a36l": true,
-      "lhs0lj299konwvjcjz5": true
+      "lhs0lj299konwvjcjz5": true,
+      "llv64h1kgoylzvf2nf7": true
     },
     "lhgpjk0igshzz075pa5": {
       "lhqu4v8ih84ivjdwvz9": false,
@@ -7689,11 +7690,23 @@
       "ID": "llv64h1kgoylzvf2nf7",
       "Name": "Nikki and Dad visit",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "llv64p2dgcn1ua4tu7j"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhs0lj299konwvjcjz5"
+    },
+    {
+      "ID": "llv64p2dgcn1ua4tu7j",
+      "Name": "Russian River tubing",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llv64h1kgoylzvf2nf7"
     }
   ],
   "settings": {
