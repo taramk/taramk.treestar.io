@@ -4589,7 +4589,9 @@
           "lic2jalcujsm5f8waq"
         ]
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "cards"
+      },
       "Parent": "lhgpjk0igshzz075pa5"
     },
     {
