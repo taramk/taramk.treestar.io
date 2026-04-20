@@ -7159,7 +7159,9 @@
         ],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "cards"
+      },
       "Parent": "llfg9rpzsfrynjryhb"
     },
     {
