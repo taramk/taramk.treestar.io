@@ -210,7 +210,8 @@
       "llfgp0gl0hyvht0ngil7": true,
       "llfgaukmm6g565s5p4s": false,
       "llfgwyrm0rjtlkg0w8nl": false,
-      "llfgg6ljhy1migq5qkh": false
+      "llfgg6ljhy1migq5qkh": false,
+      "llfh0mtt6p90fri880g": false
     }
   },
   "nodes": [
@@ -7154,13 +7155,12 @@
           "llfgesnv2oxu7imrj1n",
           "llfgk6d4k960cwf0y1h",
           "llfgkxrsfjig29dgkc",
-          "llfh0mtt6p90fri880g",
-          "llfgfvjcgtd814htnfg"
+          "llfh0mtt6p90fri880g"
         ],
         "Components": []
       },
       "Attrs": {
-        "view": "cards"
+        "view": "list"
       },
       "Parent": "llfg9rpzsfrynjryhb"
     },
@@ -7203,16 +7203,6 @@
       },
       "Attrs": {},
       "Parent": "llfgaxnaf1xpyat5f5"
-    },
-    {
-      "ID": "llfgfvjcgtd814htnfg",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfgeo56aodbztszgld"
     },
     {
       "ID": "llfgg1on60mrel6fk7b",
