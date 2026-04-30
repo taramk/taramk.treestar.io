@@ -43,9 +43,9 @@
       "lidnkeiqt6af4t3y6x8": false,
       "lidphlbxgtr8qw64a5s": false,
       "lidqhtyq77i5qvyachj": false,
-      "lidn2zqv8e56hbm62gx": true,
-      "lidn3d0hsgz117v0kz": true,
-      "lidnjex70obslz3qm5h": true
+      "lidn2zqv8e56hbm62gx": false,
+      "lidn3d0hsgz117v0kz": false,
+      "lidnjex70obslz3qm5h": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -4773,7 +4773,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "list"
+        "view": "table"
       },
       "Parent": "lidmz5ad8ocxbecoidh"
     },
