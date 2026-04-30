@@ -1875,7 +1875,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "table"
+        "view": "list"
       },
       "Parent": "@workspace"
     },
