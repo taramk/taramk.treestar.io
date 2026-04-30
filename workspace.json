@@ -43,9 +43,9 @@
       "lidnkeiqt6af4t3y6x8": false,
       "lidphlbxgtr8qw64a5s": false,
       "lidqhtyq77i5qvyachj": false,
-      "lidn2zqv8e56hbm62gx": false,
-      "lidn3d0hsgz117v0kz": false,
-      "lidnjex70obslz3qm5h": false
+      "lidn2zqv8e56hbm62gx": true,
+      "lidn3d0hsgz117v0kz": true,
+      "lidnjex70obslz3qm5h": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -4781,7 +4781,9 @@
       "ID": "lidn2zqv8e56hbm62gx",
       "Name": "10% off direct booking discount",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "molrhw57ady0yklzqm"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -4791,7 +4793,9 @@
       "ID": "lidn3d0hsgz117v0kz",
       "Name": "$505 on website",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "molrhyclu7hoxgpvj1"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -4834,7 +4838,9 @@
       "ID": "lidnjex70obslz3qm5h",
       "Name": "HotelTonight has it for $470 possibly",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "molri03g77f15prufm8"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -7695,6 +7701,36 @@
         "refTo": "lkh6p78lkphzhs1gbqh"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "molrhw57ady0yklzqm",
+      "Name": "one",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidn2zqv8e56hbm62gx"
+    },
+    {
+      "ID": "molrhyclu7hoxgpvj1",
+      "Name": "two",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidn3d0hsgz117v0kz"
+    },
+    {
+      "ID": "molri03g77f15prufm8",
+      "Name": "three",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lidnjex70obslz3qm5h"
     }
   ],
   "settings": {
