@@ -37,7 +37,12 @@
       "llfg9rpzsfrynjryhb": true,
       "llfgcdsqskpemq94xv": true,
       "llfgaxnaf1xpyat5f5": false,
-      "lidmz6hiivjbicb58na": true
+      "lidmz6hiivjbicb58na": false,
+      "lidn2w6d041yaxfp8uvf": false,
+      "lidn3wztkxi6e1pe1t": false,
+      "lidnkeiqt6af4t3y6x8": false,
+      "lidphlbxgtr8qw64a5s": false,
+      "lidqhtyq77i5qvyachj": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -4715,7 +4720,9 @@
         ],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "table"
+      },
       "Parent": "lhgpj9lhufzcr161fvh"
     },
     {
