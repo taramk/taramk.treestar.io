@@ -4,7 +4,7 @@
   "expanded": {
     "@workspace": {
       "@calendar": false,
-      "lhgpj9lhufzcr161fvh": true,
+      "lhgpj9lhufzcr161fvh": false,
       "lhgpjk0igshzz075pa5": false,
       "lhgprwnm7e0bxentrrn": false,
       "lhgq29i8yeojytlis8": false,
@@ -45,7 +45,8 @@
       "lidqhtyq77i5qvyachj": false,
       "lidn2zqv8e56hbm62gx": false,
       "lidn3d0hsgz117v0kz": false,
-      "lidnjex70obslz3qm5h": false
+      "lidnjex70obslz3qm5h": false,
+      "llv64h1kgoylzvf2nf7": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -1873,7 +1874,9 @@
         ],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "table"
+      },
       "Parent": "@workspace"
     },
     {
